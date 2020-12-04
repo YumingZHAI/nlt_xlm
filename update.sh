@@ -10,5 +10,5 @@ git add --all
 # git rm --cached */*/*/.DS_Store
 # git status
 git commit -m "$1"
-git push origin master
+git push origin HEAD:master
 
