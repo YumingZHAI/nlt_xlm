@@ -1,0 +1,173 @@
+quelque part par la il y a meme une serie de photographies ... nous y voila .
+il s' agit en fait d' un poster de notre dame qui a ete enregistre comme correct .
+le vrai but de tout ca , c' est qu' on peut faire des choses avec l' environnement social . on prend maintenant les donnees de tout le monde ... de l' ensemble de la memoire collective de ce a quoi ressemble la terre , visuellement ... et on relie tout ca ensemble .
+toutes ces photos deviennent liees entre elles , et elles font emerger quelque chose de plus grand que la somme des parties .
+il y a un modele de la terre entiere qui emerge .
+voyez ca comme la longue traine du travail de stephen lawler sur la terre virtuelle .
+et c' est quelque chose qui devient de plus en plus complexe a mesure que les gens l' utilisent , et dont les benefices s' accroissent pour les utilisateurs a mesure qu' ils l' utilisent .
+leurs propres photos sont marquees avec des meta-donnees que quelqu'un d' autre a entrees .
+si quelqu'un s' embetait a marquer tous ces saints et a donner tous leurs noms , ma photo de la cathedrale notre dame serait enrichie d' un coup de toutes ces donnees , et je pourrais l' utiliser comme point d' entree pour plonger dans cet espace , dans ce meta-verse , en utilisant les photos de tout le monde , pour faire une sorte d' experience sociale trans-modale et trans-utilisateurs de cette maniere .
+et bien sur , un sous-produit de tout ca , ce sont des modeles virtuels immensement riches de tous les coins interessants la terre , recoltes pas simplement par des vols en altitude et par des images satellite et autres , mais par la memoire collective .
+merci beaucoup .
+est -ce que je comprends bien ? que ce que votre logiciel va permettre , c' est qu' a un certain moment , vraiment dans les quelques annees a venir , toutes les photos qui sont partagees par quiconque dans le monde seront en gros liees entre elles ?
+oui . ce que le logiciel fait , c' est decouvrir .
+il cree des hyperliens , si vous voulez , entre les images .
+et il le fait en se fondant sur le contenu des images .
+et ca devient vraiment passionnant quand vous songez a la richesse de l' information semantique que bon nombre de ces images possedent .
+par exemple quand on fait une recherche web sur des images , on tape des phrases , et le texte de la page web contient beaucoup d' informations a propos du sujet de cette photo .
+maintenant , que se passe -t-il si cette photo est liee a toutes vos photos ?
+dans ce cas la quantite d' interconnexions semantiques et la quantite de richesse qui en ressort est vraiment immense . c' est un effet de reseau classique .
+blaise , c' est vraiment incroyable . felicitations .
+merci beaucoup .
+l' annee derniere j' ai presente le lhc
+et j' ai promis de revenir afin de vous mettre au courant de quelle facon cette machine fonctionne
+alors le voici . et pour ceux qui n' y etaient pas , le lhc est le plus grand projet scientifique jamais realise . il fait 27 kilometres de circonference .
+son travail consiste a recreer les conditions qui etaient presentes moins d' un milliardieme de seconde apres la naissance de l' univers jusqu'a 600 millions de fois par seconde
+c' est veritablement ambitieux .
+voici la machine en dessous de geneve .
+nous prenons des photos de ces minis-big bangs qui sont a l' interieur des detecteurs .
+voici celui sur lequel je travaille . il s' appelle le detecteur atlas 44 metres de large et 22 metres de diametre .
+voici une image spectaculaire d' atlas en construction pour que vous puissiez voir l' echelle .
+le 10 septembre de l' annee derniere nous avons allume la machine pour la premiere fois
+et cette image a ete prise par atlas .
+elle a provoque une immense fete dans la salle de controle
+c' est une photo du premier faisceau de particules qui a effectue un tour complet de l' accelerateur , est entre en collision avec une part du lhc , deliberement , et a bombarde des particules dans le detecteur .
+autrement dit , quand nous avons vu cette image le 10 septembre nous avons su que la machine fonctionnait , ce qui est une grande victoire
+je ne sais pas si ceci a ete recu avec d' aussi grandes acclamations que ceci : quand quelqu'un accedait a google et voyait la page d' accueil comme ca .
+ca veut dire que nous avons fait un impact culturel autant qu' un impact scientifique .
+apres environ une semaine , nous avons eu un probleme avec la machine qui etait en fait lie a ces morceaux de fils -- ces fils d' or
+ces fils transportent treize mille amperes quand la machine marche a pleine puissance .
+bon , les ingenieurs parmi vous , en les regardant , diront " ca n' est pas le cas . ils sont trop petits "
+ils peuvent faire cela parce que lorsqu' ils sont tres froids ils deviennent ce qu' on appelle des fils superconducteurs
+alors , quand il fait moins 271 degres , ce qui est plus froid que l' espace entre les etoiles , ces fils d' or peuvent propager ce courant .
+dans une de ces jointures , entre les plus de neuf milles aimants du lhc , il y avait un defaut industriel .
+alors le fil s' est legerement echauffe et ces 13 mille amperes ont rencontre soudainement de la resistance electrique .
+voici le resultat .
+cela est encore plus impressionnant quand on considere que ces aimants pesent plus de vingt tonnes et qu' ils se sont deplaces d' une trentaine de centimetres .
+nous avons endommage a peu pres 50 de ces aimants .
+il fallait les sortir , ce que nous avons fait .
+nous les avons tous renoves et repares .
+maintenant , ils sont tous de retour sous terre
+avant la fin mars , le lhc sera a nouveau intact
+nous l' allumerons et nous comptons prendre des donnees en juin ou juillet et continuer avec notre quete de decouvrir quels sont les composants de l' univers
+bon , naturellement , dans un sens ces accidents ont declenche un debat a propos de la valeur de la science et de l' ingenierie avant-garde . c' est facile a refuter .
+je pense que le fait que ce soit si difficile , le fait que nous voulions trop en faire , c' est cela la valeur des choses comme le lhc .
+je laisse le dernier mot a un scientifique anglais , humphrey davy , qui , je soupconne , en defendant les experiences " inutiles " de son protege , son protege etant michael faraday , a dit : " rien n' est aussi dangereux au progres de l' esprit humain que d' assumer que nos opinions sur la science sont finales , qu' il ne reste plus de mysteres dans la nature , que nos triomphes sont complets , et que il n' y a pas de nouveaux mondes a conquerir . "
+merci .
+j' ai deja parle de certains de ces projets , du genome humain et de ce qu' il pourrait representer , et de la decouverte de nouveaux genes .
+nous en sommes maintenant a une nouvelle etape : nous avons numerise la biologie , et maintenant nous essayons de passer de ce code numerique a une nouvelle phase de la biologie : la conception et la synthese de la vie .
+nous nous sommes toujours pose de grandes questions .
+" qu' est -ce que la vie ? " est selon moi ce que beaucoup de biologistes ont cherche a comprendre a differents niveaux .
+nous avons tente diverses approches , essayant de la reduire a des composants minimaux .
+nous la numerisons depuis maintenant pres de 20 ans . lorsque nous avons sequence le genome humain , nous l' avons transpose du monde analogique de la biologie au monde numerique des ordinateurs .
+maintenant la question c' est : pouvons -nous regenerer la vie , ou pouvons nous creer de nouvelles formes de vie , a partir de cet univers numerique ?
+voici la carte du genome d' un organisme simple , la bacterie mycoplasma genitalium , l' organisme possedant le genome le plus simple qui puisse s' auto-repliquer en laboratoire . nous avons tente de voir si nous pouvions arriver a un genome encore plus petit .
+nous avons pu eliminer environ une centaine de genes sur les quelques 500 qu' il y avait au depart .
+quand on regarde la carte de son metabolisme , elle est relativement simple comparee a la notre . croyez -moi , ca c' est simple . mais quand on considere tous les genes qu' on peut eliminer un par un , il est tres improbable que le resultat produirait une cellule vivante .
+nous avons donc decide que la seule maniere de progresser , c' etait de synthetiser concretement ce chromosome afin de pouvoir en varier les composants et pouvoir poser certaines de ces questions fondamentales .
+donc nous nous sommes atteles a ce probleme : " pouvons -nous synthetiser un chromosome ? "
+est -ce que la chimie permet de construire ces enormes molecules , ce qui n' a jamais ete realise ?
+et , si c' est possible , pouvons -nous activer un chromosome ?
+un chromosome , au passage , c' est juste un morceau de materiau chimique inerte .
+bien que le rythme de notre numerisation de la vie se soit accru de maniere exponentielle ,
+notre capacite a ecrire un code genetique a augmente plus lentement , mais a augmente quand meme . et notre derniere avancee montrerait un debut de croissance exponentielle .
+nous avons commence ce travail il y a plus de 15 ans .
+en realite cela s' est fait en plusieurs etapes , en commencant par un rapport bioethique avant les premieres experiences .
+mais il se trouve que synthetiser de l' adn est tres difficile .
+il existe des dizaines de milliers de machines dans le monde qui peuvent synthetiser de petits morceaux d' adn , de 30 a 50 lettres de long , mais c' est un processus degeneratif , donc plus le morceau est long , plus il y a des erreurs .
+nous avons donc du creer une nouvelle methode pour assembler ces petits morceaux entre eux et corriger toutes les erreurs .
+ceci etait notre premiere tentative , en utilisant les informations numeriques du genome de phi x 174 ,
+un petit virus qui tue des bacteries .
+nous avons construit les morceaux , corrige les erreurs , et avons cree une molecule d' adn d' environ 5000 lettres de long .
+le moment le plus excitant a ete lorsque nous avons pris ce materiau chimique inerte et nous l' avons place dans une bacterie ; la bacterie a commence a lire le code genetique , et a fabriquer des particules virales .
+les particules virales ont ete ensuite ejectees de ces cellules , et sont revenues detruire la bacterie e. coli .
+je discutais avec l' industrie du petrole recemment , et je leur ai dit qu' ils avaient tres clairement compris ce modele .
+ils ont plus rigole que vous .
+donc c' est en realite une situation ou le logiciel peut construire son propre materiel dans un systeme biologique .
+mais nous voulions voir plus grand . nous voulions creer un chromosome de bacterie entier . cela represente plus de 580 000 lettres de code genetique . donc nous avons pense les assembler a partir de morceaux de la taille d' un virus , pour pouvoir varier ces morceaux a notre guise et ainsi comprendre quels sont les composants necessaires d' une cellule vivante .
+la conception est primordiale , et si vous partez des donnees numerisees sur ordinateur , il faut qu' elles soient extremement precises .
+lorsque nous avons sequence ce genome en 1995 , la precision standard etait d' une erreur pour 10 000 paires de bases .
+en sequencant a nouveau ce genome , nous avons trouve 30 erreurs . si nous avions utilise la sequence originelle , le chromosome resultant n' aurait jamais fonctionne .
+la conception doit notamment definir des morceaux de 50 lettres de long qu' il faudra imbriquer avec tous les autres morceaux de 50 lettres pour construire des sous-ensembles plus petits qu' il faudra alors egalement assembler .
+nous avons pu egalement integrer des elements particuliers .
+vous l' avez peut-etre lu , nous avons insere des signatures .
+reflechissez un peu : le code genetique comporte 4 lettres : a , c , g et t .
+des triplets de ces lettres permettent de coder une vingtaine d' acides amines , chaque acide amine etant lui-meme designe par une lettre qui lui est propre .
+nous pouvons donc utiliser le code genetique pour ecrire des mots , des phrases , des pensees .
+pour commencer , nous avons juste mis notre autographe .
+certains ont ete decu que ce ne soit pas de la poesie .
+nous avons concu ces morceaux pour qu' ils soient legerement rognes par des enzymes . il y a des enzymes qui les reparent et les assemblent .
+nous avons donc commence a construire des morceaux , en commencant par des morceaux de 5000 a 7000 lettres , qu' on assemble pour former des morceaux de 24 000 lettres eux-memes assembles pour arriver a 72 000 lettres .
+a chaque etape , nous avons cree une grande quantite de ces morceaux de maniere a pouvoir les sequencer car nous essayons de creer un processus extremement robuste -- vous allez le constater dans une minute .
+ce que nous recherchons c' est l' automatisation du processus .
+au total cela ressemble a un tableau d' eliminatoires .
+lorsqu' on arrive a des tailles de morceaux importantes on ne peut plus les faire croitre facilement dans une bacterie e. coli . on atteint les limites des outils de la biologie moleculaire moderne . nous nous sommes donc tournes vers d' autres mecanismes .
+nous en connaissions un appele recombinaison homologue , que la nature utilise pour reparer l' adn , qui pouvait assembler ces larges morceaux .
+en voici un exemple . il y a un organisme appele deinococcus radiodurans qui peut survivre a des niveaux de radiations de 3 millions de rads .
+vous le voyez sur l' image du haut , son chromosome explose litteralement .
+12 a 24 heures plus tard , il s' est repare exactement comme il etait auparavant .
+il existe des milliers d' organismes qui ont cette capacite .
+ils peuvent etre totalement asseches . ils peuvent survivre dans le vide total .
+je suis absolument sur qu' il peut y avoir de la vie dans l' espace , qu' elle peut se deplacer et trouver un autre environnement aqueux .
+en fait , la nasa a montre qu' il y en avait beaucoup d' exemples .
+voici une micrographie de la molecule que nous avons construite en utilisant ces processus - en realite simplement les mecanismes des levures avec une conception adequate des morceaux utilises . la levure les assemble automatiquement .
+ce n' est pas une micrographie electronique ; c' est juste une photomicrographie normale .
+cette molecule est tellement grande qu' on peut la voir avec un simple microscope .
+ces photos ont ete prises sur une periode de 6 secondes .
+voila la publication que nous avons faite il y a peu .
+cela represente plus de 580 000 lettres de code genetique . c' est la plus grande molecule d' une structure determinee jamais creee par l' homme .
+sa masse moleculaire est superieure a 300 millions d' uma .
+si on utilisait une police 10 sans espaces , ca prendrait 142 pages rien que pour imprimer ce code genetique .
+comment fait on demarrer un chromosome ? comment l' active -t-on ?
+evidemment c' est assez simple avec un virus . mais c' est beaucoup plus complique quand on travaille avec des bacteries .
+c' est egalement beaucoup plus simple pour des organismes eucaryotes comme nous-memes ; il suffit d' ejecter le noyau et d' en inserer un autre , comme ce qu' on fait pour le clonage .
+dans les bacteries archaea , le chromosome est integre a la cellule . mais nous avons recemment montre qu' il est possible de transplanter entierement un chromosome d' une cellule a une autre et de l' activer .
+nous avons d' abord purifie un chromosome d' une espece microbienne . en gros , le microbe et la bacterie sont aussi eloignes l' un de l' autre que l' homme de la souris . nous avons ajoute quelques genes pour pouvoir selectionner ce chromosome particulier . nous l' avons fait digerer par des enzymes pour detruire toutes les proteines . et quand nous avons insere ca dans la cellule , c' est assez stupefiant -- et vous apprecierez au passage la sophistication de notre graphisme --
+le nouveau chromosome est entre dans la cellule .
+en fait , nous pensions que cela pourrait s' arreter la , mais nous avons tente d' aller plus loin dans le processus .
+vous avez sous les yeux un mecanisme majeur de l' evolution .
+on trouve des tas d' especes qui ont integre un deuxieme chromosome ou un troisieme provenant d' un autre organisme , ajoutant ainsi des milliers de nouvelles caracteristiques a cet organisme en une seconde .
+les gens qui croient encore que l' evolution se produit par la modification d' un gene a la fois ont loupe pas mal de choses en biologie .
+il existe des enzymes appeles enzymes de restriction qui peuvent digerer l' adn .
+le chromosome qui etait dans la cellule n' en a pas . le chromosome que nous avons insere , en a .
+l' enzyme a ete produit a partir de notre chromosome , et il a reconnu l' autre chromosome comme un materiel etranger , l' a avale , et nous nous sommes donc retrouves avec une cellule avec un nouveau chromosome .
+elle a vire au bleu a cause des genes que nous avons insere .
+et en tres peu de temps , toutes les caracteristiques de l' organisme initial ont disparu et elle s' est entierement transformee en un organisme nouveau , fonde sur le nouveau logiciel que nous avons introduit dans la cellule .
+toutes les proteines ont ete modifiees , les membranes ont change -- et quand on lit le code genetique , on retrouve exactement ce que nous avons transfere .
+cela peut ressembler a de l' alchimie genetique , mais nous pouvons reellement , en transferant l' adn logiciel ici et la , faire des changements radicaux .
+selon moi , ce n' est pas pour autant la genese de la vie , c' est la prolongation de 3,5 milliards d' annees d' evolution ,
+mais je pense que nous sommes peut-etre sur le point de creer une nouvelle version de l' explosion cambrienne avec la creation massive de nouvelles especes a partir de cette conception numerique .
+pourquoi faire cela ?
+je pense que c' est assez evident quand on regarde nos besoins .
+nous allons passer de 6,5 a 9 milliards d' etres humains sur les 40 prochaines annees .
+si je rapporte cela a ma personne : je suis ne en 1946 .
+il y a maintenant sur cette planete trois personnes pour chaque personne qui vivait en 1946 ; d' ici 40 ans , il y en aura quatre .
+nous avons des problemes pour nourrir , pour fournir de l' eau pure , des medicaments , du carburant a 6,5 milliards d' etres .
+ca sera d' autant plus difficile de le faire pour 9 .
+nous consommons chaque annee 5 milliards de tonnes de charbon , et plus de trente milliards de barils de petrole , soit 100 millions de barils par jour .
+quand on essaye de concevoir des processus , biologique ou autre , pour remplacer ca , on comprend que c' est un challenge gigantesque .
+et il y a aussi bien sur tout ce dioxyde de carbone produit par ces processus qui est rejete dans l' atmosphere .
+nous possedons , suite a nos decouvertes de par le monde , une base de donnees d' environ 20 millions de genes , et je les considere comme autant de composants pour nos creations futures .
+l' industrie electronique ne dispose que d' une douzaine de composants et regardez la diversite qui en est issue .
+nous sommes limites principalement par la realite biologique et par notre imagination .
+nous disposons maintenant des techniques , grace a ces methodes de synthese rapide , pour faire ce que nous appelons de la genomique combinatoire .
+nous avons maintenant la capacite de construire un grand robot capable de creer un million de chromosomes par jour .
+imaginez ce que l' on peut creer avec ces 20 millions de genes , ou les processus que l' on peut optimiser pour produire de l' octane ou des medicaments , ou de nouveaux vaccins ... nous pouvons , avec une equipe reduite , inventer plus de biologie moleculaire que toutes les decouvertes scientifiques des 20 dernieres annees .
+tout ca grace a un simple processus de selection . on peut privilegier la viabilite , la production de carburants , de produits chimiques , de vaccins , etc. .
+ceci est une photo d' ecran d' un veritable logiciel de conception sur lequel nous travaillons pour nous permettre de creer des organismes sur ordinateur .
+on ne saura pas forcement dire a quoi ils ressembleront . mais on saura dire exactement quel est leur code genetique .
+nous nous concentrons en ce moment sur les carburants de quatrieme generation .
+vous avez pu voir recemment que la transformation du mais en ethanol n' est rien qu' une mauvaise experience .
+les carburants de deuxieme et troisieme generations ne vont pas tarder a apparaitre , ceux qui transforment le sucre en carburants beaucoup plus puissants comme l' octane ou differents types de butanol .
+mais nous pensons que la seule maniere pour la biologie d' avoir un impact majeur sans pour autant augmenter le cout de production de la nourriture et en limiter la disponibilite est d' utiliser le co 2 comme matiere premiere , donc nous travaillons a concevoir des cellules pour aller dans ce sens ,
+et nous pensons obtenir les premiers carburants de quatrieme generation dans environ 18 mois .
+le soleil et le co 2 c' est une des methodes envisageables ...
+mais nous avons decouvert de par le monde tout un tas d' autres methodes .
+ceci est un organisme que nous avons decrit en 1996 .
+elle s' etend en hiver et se contracte en ete .
+ouah !
+dans les andes , ce glacier est la source d' eau potable de cette ville . dans les andes , ce glacier est la source d' eau potable de cette ville .
+le debit a augmente .
+4 fois plus au cours des 30 dernieres annees que pendant les 75 dernieres annees .
+les etats-unis sont l' un des deux plus gros emetteurs de co 2 , avec la chine .
+cependant , il y a une lutte politique dans notre pays .

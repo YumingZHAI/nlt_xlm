@@ -1,0 +1,360 @@
+397
+you know , I 've talked about some of these projects before -- about the human genome and what that might mean , and discovering new sets of genes . 
+j' ai déjà parlé de certains de ces projets , du génome humain et de ce qu' il pourrait représenter , et de la découverte de nouveaux gènes . 
+398
+we 're actually starting at a new point : we 've been digitizing biology , and now we 're trying to go from that digital code into a new phase of biology with designing and synthesizing life . 
+nous en sommes maintenant à une nouvelle étape : nous avons numérisé la biologie , et maintenant nous essayons de passer de ce code numérique à une nouvelle phase de la biologie : la conception et la synthèse de la vie . 
+399
+so , we 've always been trying to ask big questions . 
+nous nous sommes toujours posé de grandes questions . 
+400
+`` what is life ? '' is something that I think many biologists have been trying to understand at various levels . 
+" qu' est -ce que la vie ? " est selon moi ce que beaucoup de biologistes ont cherché à comprendre à différents niveaux . 
+401
+we 've tried various approaches , paring it down to minimal components . 
+nous avons tenté diverses approches , essayant de la réduire à des composants minimaux . 
+402
+we 've been digitizing it now for almost 20 years ; when we sequenced the human genome , it was going from the analog world of biology into the digital world of the computer . 
+nous la numérisons depuis maintenant près de 20 ans . lorsque nous avons séquencé le génome humain , nous l' avons transposé du monde analogique de la biologie au monde numérique des ordinateurs . 
+403
+now we 're trying to ask , `` can we regenerate life or can we create new life out of this digital universe ? '' 
+maintenant la question c' est : pouvons -nous régénérer la vie , ou pouvons nous créer de nouvelles formes de vie , à partir de cet univers numérique ? 
+404
+this is the map of a small organism , Mycoplasma genitalium , that has the smallest genome for a species that can self-replicate in the laboratory , and we 've been trying to just see if we can come up with an even smaller genome . 
+voici la carte du génome d' un organisme simple , la bactérie Mycoplasma genitalium , l' organisme possédant le génome le plus simple qui puisse s' auto-répliquer en laboratoire . nous avons tenté de voir si nous pouvions arriver à un génome encore plus petit . 
+405
+we 're able to knock out on the order of 100 genes out of the 500 or so that are here . 
+nous avons pu éliminer environ une centaine de gènes sur les quelques 500 qu' il y avait au départ . 
+406
+when we look at its metabolic map , it 's relatively simple compared to ours -- trust me , this is simple -- but when we look at all the genes that we can knock out one at a time , it 's very unlikely that this would yield a living cell . 
+quand on regarde la carte de son métabolisme , elle est relativement simple comparée à la nôtre . croyez -moi , ça c' est simple . mais quand on considère tous les gènes qu' on peut éliminer un par un , il est très improbable que le résultat produirait une cellule vivante . 
+407
+so we decided the only way forward was to actually synthesize this chromosome so we could vary the components to ask some of these most fundamental questions . 
+nous avons donc décidé que la seule manière de progresser , c' était de synthétiser concrètement ce chromosome afin de pouvoir en varier les composants et pouvoir poser certaines de ces questions fondamentales . 
+408
+and so we started down the road of : can we synthesize a chromosome ? 
+donc nous nous sommes attelés à ce problème : " pouvons -nous synthétiser un chromosome ? " 
+409
+can chemistry permit making these really large molecules where we 've never been before ? 
+est -ce que la chimie permet de construire ces énormes molécules , ce qui n' a jamais été réalisé ? 
+410
+and if we do , can we boot up a chromosome ? 
+et , si c' est possible , pouvons -nous activer un chromosome ? 
+411
+a chromosome , by the way , is just a piece of inert chemical material . 
+un chromosome , au passage , c' est juste un morceau de matériau chimique inerte . 
+412
+so , our pace of digitizing life has been increasing at an exponential pace . 
+bien que le rythme de notre numérisation de la vie se soit accru de manière exponentielle , 
+413
+our ability to write the genetic code has been moving pretty slowly but has been increasing , and our latest point would put it on , now , an exponential curve . 
+notre capacité à écrire un code génétique a augmenté plus lentement , mais a augmenté quand même . et notre dernière avancée montrerait un début de croissance exponentielle . 
+414
+we started this over 15 years ago . 
+nous avons commencé ce travail il y a plus de 15 ans . 
+415
+it took several stages , in fact , starting with a bioethical review before we did the first experiments . 
+en réalité cela s' est fait en plusieurs étapes , en commençant par un rapport bioéthique avant les premières expériences . 
+416
+but it turns out synthesizing DNA is very difficult . 
+mais il se trouve que synthétiser de l' ADN est très difficile . 
+417
+there are tens of thousands of machines around the world that make small pieces of DNA -- 30 to 50 letters in length -- and it 's a degenerate process , so the longer you make the piece , the more errors there are . 
+il existe des dizaines de milliers de machines dans le monde qui peuvent synthétiser de petits morceaux d' ADN , de 30 à 50 lettres de long , mais c' est un processus dégénératif , donc plus le morceau est long , plus il y a des erreurs . 
+418
+so we had to create a new method for putting these little pieces together and correct all the errors . 
+nous avons donc dû créer une nouvelle méthode pour assembler ces petits morceaux entre eux et corriger toutes les erreurs . 
+419
+and this was our first attempt , starting with the digital information of the genome of phi X 174 . 
+ceci était notre première tentative , en utilisant les informations numériques du génome de Phi X 174 , 
+420
+it 's a small virus that kills bacteria . 
+un petit virus qui tue des bactéries . 
+421
+we designed the pieces , went through our error correction and had a DNA molecule of about 5,000 letters . 
+nous avons construit les morceaux , corrigé les erreurs , et avons créé une molécule d' ADN d' environ 5000 lettres de long . 
+422
+the exciting phase came when we took this piece of inert chemical and put it in the bacteria , and the bacteria started to read this genetic code , made the viral particles . 
+le moment le plus excitant a été lorsque nous avons pris ce matériau chimique inerte et nous l' avons placé dans une bactérie ; la bactérie a commencé à lire le code génétique , et à fabriquer des particules virales . 
+423
+the viral particles then were released from the cells and came back and killed the E. coli . 
+les particules virales ont été ensuite éjectées de ces cellules , et sont revenues détruire la bactérie E. coli . 
+424
+I was talking to the oil industry recently and I said they clearly understood that model . 
+je discutais avec l' industrie du pétrole récemment , et je leur ai dit qu' ils avaient très clairement compris ce modèle . 
+425
+they laughed more than you guys are . 
+ils ont plus rigolé que vous . 
+426
+and so , we think this is a situation where the software can actually build its own hardware in a biological system . 
+donc c' est en réalité une situation où le logiciel peut construire son propre matériel dans un système biologique . 
+427
+but we wanted to go much larger : we wanted to build the entire bacterial chromosome -- it 's over 580,000 letters of genetic code -- so we thought we 'd build them in cassettes the size of the viruses so we could actually vary the cassettes to understand what the actual components of a living cell are . 
+mais nous voulions voir plus grand . nous voulions créer un chromosome de bactérie entier . cela représente plus de 580 000 lettres de code génétique . donc nous avons pensé les assembler à partir de morceaux de la taille d' un virus , pour pouvoir varier ces morceaux à notre guise et ainsi comprendre quels sont les composants nécessaires d' une cellule vivante . 
+428
+design is critical , and if you 're starting with digital information in the computer , that digital information has to be really accurate . 
+la conception est primordiale , et si vous partez des données numérisées sur ordinateur , il faut qu' elles soient extrêmement précises . 
+429
+when we first sequenced this genome in 1995 , the standard of accuracy was one error per 10,000 base pairs . 
+lorsque nous avons séquencé ce génome en 1995 , la précision standard était d' une erreur pour 10 000 paires de bases . 
+430
+we actually found , on resequencing it , 30 errors ; had we used that original sequence , it never would have been able to be booted up . 
+en séquençant à nouveau ce génome , nous avons trouvé 30 erreurs . si nous avions utilisé la séquence originelle , le chromosome résultant n' aurait jamais fonctionné . 
+431
+part of the design is designing pieces that are 50 letters long that have to overlap with all the other 50-letter pieces to build smaller subunits we have to design so they can go together . 
+la conception doit notamment définir des morceaux de 50 lettres de long qu' il faudra imbriquer avec tous les autres morceaux de 50 lettres pour construire des sous-ensembles plus petits qu' il faudra alors également assembler . 
+432
+we design unique elements into this . 
+nous avons pu également intégrer des éléments particuliers . 
+433
+you may have read that we put watermarks in . 
+vous l' avez peut-être lu , nous avons inséré des signatures . 
+434
+think of this : we have a four-letter genetic code -- A , C , G and T . 
+réfléchissez un peu : le code génétique comporte 4 lettres : A , C , G et T . 
+435
+triplets of those letters code for roughly 20 amino acids , such that there 's a single letter designation for each of the amino acids . 
+des triplets de ces lettres permettent de coder une vingtaine d' acides aminés , chaque acide aminé étant lui-même désigné par une lettre qui lui est propre . 
+436
+so we can use the genetic code to write out words , sentences , thoughts . 
+nous pouvons donc utiliser le code génétique pour écrire des mots , des phrases , des pensées . 
+437
+initially , all we did was autograph it . 
+pour commencer , nous avons juste mis notre autographe . 
+438
+some people were disappointed there was not poetry . 
+certains ont été déçu que ce ne soit pas de la poésie . 
+439
+we designed these pieces so we can just chew back with enzymes ; there are enzymes that repair them and put them together . 
+nous avons conçu ces morceaux pour qu' ils soient légèrement rognés par des enzymes . il y a des enzymes qui les réparent et les assemblent . 
+440
+and we started making pieces , starting with pieces that were 5,000 to 7,000 letters , put those together to make 24,000-letter pieces , then put sets of those going up to 72,000 . 
+nous avons donc commencé à construire des morceaux , en commençant par des morceaux de 5000 à 7000 lettres , qu' on assemble pour former des morceaux de 24 000 lettres eux-mêmes assemblés pour arriver à 72 000 lettres . 
+441
+at each stage , we grew up these pieces in abundance so we could sequence them because we 're trying to create a process that 's extremely robust that you can see in a minute . 
+à chaque étape , nous avons créé une grande quantité de ces morceaux de manière à pouvoir les séquencer car nous essayons de créer un processus extrêmement robuste -- vous allez le constater dans une minute . 
+442
+we 're trying to get to the point of automation . 
+ce que nous recherchons c' est l' automatisation du processus . 
+443
+so , this looks like a basketball playoff . 
+au total cela ressemble à un tableau d' éliminatoires . 
+444
+when we get into these really large pieces over 100,000 base pairs , they wo n't any longer grow readily in E. coli -- it exhausts all the modern tools of molecular biology -- and so we turned to other mechanisms . 
+lorsqu' on arrive à des tailles de morceaux importantes on ne peut plus les faire croître facilement dans une bactérie E. coli . on atteint les limites des outils de la biologie moléculaire moderne . nous nous sommes donc tournés vers d' autres mécanismes . 
+445
+we knew there 's a mechanism called homologous recombination that biology uses to repair DNA that can put pieces together . 
+nous en connaissions un appelé recombinaison homologue , que la nature utilise pour réparer l' ADN , qui pouvait assembler ces larges morceaux . 
+446
+here 's an example of it : there 's an organism called Deinococcus radiodurans that can take three millions rads of radiation . 
+en voici un exemple . il y a un organisme appelé Deinococcus radiodurans qui peut survivre à des niveaux de radiations de 3 millions de rads . 
+447
+you can see in the top panel , its chromosome just gets blown apart . 
+vous le voyez sur l' image du haut , son chromosome explose littéralement . 
+448
+twelve to 24 hours later , it put it back together exactly as it was before . 
+12 à 24 heures plus tard , il s' est réparé exactement comme il était auparavant . 
+449
+we have thousands of organisms that can do this . 
+il existe des milliers d' organismes qui ont cette capacité . 
+450
+these organisms can be totally desiccated ; they can live in a vacuum . 
+ils peuvent être totalement asséchés . ils peuvent survivre dans le vide total . 
+451
+I am absolutely certain that life can exist in outer space , move around , find a new aqueous environment . 
+je suis absolument sûr qu' il peut y avoir de la vie dans l' espace , qu' elle peut se déplacer et trouver un autre environnement aqueux . 
+452
+in fact , NASA has shown a lot of this is out there . 
+en fait , la NASA a montré qu' il y en avait beaucoup d' exemples . 
+453
+here 's an actual micrograph of the molecule we built using these processes , actually just using yeast mechanisms with the right design of the pieces we put them in ; yeast puts them together automatically . 
+voici une micrographie de la molécule que nous avons construite en utilisant ces processus - en réalité simplement les mécanismes des levures avec une conception adéquate des morceaux utilisés . la levure les assemble automatiquement . 
+454
+this is not an electron micrograph ; this is just a regular photomicrograph . 
+ce n' est pas une micrographie électronique ; c' est juste une photomicrographie normale . 
+455
+it 's such a large molecule we can see it with a light microscope . 
+cette molécule est tellement grande qu' on peut la voir avec un simple microscope . 
+456
+these are pictures over about a six-second period . 
+ces photos ont été prises sur une période de 6 secondes . 
+457
+so , this is the publication we had just a short while ago . 
+voilà la publication que nous avons faite il y a peu . 
+458
+this is over 580,000 letters of genetic code ; it 's the largest molecule ever made by humans of a defined structure . 
+cela représente plus de 580 000 lettres de code génétique . c' est la plus grande molécule d' une structure déterminée jamais créée par l' homme . 
+459
+it 's over 300 million molecular weight . 
+sa masse moléculaire est supérieure à 300 millions d' uma . 
+460
+if we printed it out at a 10 font with no spacing , it takes 142 pages just to print this genetic code . 
+si on utilisait une police 10 sans espaces , ça prendrait 142 pages rien que pour imprimer ce code génétique . 
+461
+well , how do we boot up a chromosome ? how do we activate this ? 
+comment fait on démarrer un chromosome ? comment l' active -t-on ? 
+462
+obviously , with a virus it 's pretty simple ; it 's much more complicated dealing with bacteria . 
+évidemment c' est assez simple avec un virus . mais c' est beaucoup plus compliqué quand on travaille avec des bactéries . 
+463
+it 's also simpler when you go into eukaryotes like ourselves : you can just pop out the nucleus and pop in another one , and that 's what you 've all heard about with cloning . 
+c' est également beaucoup plus simple pour des organismes eucaryotes comme nous-mêmes ; il suffit d' éjecter le noyau et d' en insérer un autre , comme ce qu' on fait pour le clônage . 
+464
+with bacteria and Archaea , the chromosome is integrated into the cell , but we recently showed that we can do a complete transplant of a chromosome from one cell to another and activate it . 
+dans les bactéries Archaea , le chromosome est intégré à la cellule . mais nous avons récemment montré qu' il est possible de transplanter entièrement un chromosome d' une cellule à une autre et de l' activer . 
+465
+we purified a chromosome from one microbial species -- roughly , these two are as distant as human and mice -- we added a few extra genes so we could select for this chromosome , we digested it with enzymes to kill all the proteins , and it was pretty stunning when we put this in the cell -- and you 'll appreciate our very sophisticated graphics here . 
+nous avons d' abord purifié un chromosome d' une espèce microbienne . en gros , le microbe et la bactérie sont aussi éloignés l' un de l' autre que l' homme de la souris . nous avons ajouté quelques gènes pour pouvoir sélectionner ce chromosome particulier . nous l' avons fait digérer par des enzymes pour détruire toutes les protéines . et quand nous avons inséré ça dans la cellule , c' est assez stupéfiant -- et vous apprécierez au passage la sophistication de notre graphisme -- 
+466
+the new chromosome went into the cell . 
+le nouveau chromosome est entré dans la cellule . 
+467
+in fact , we thought this might be as far as it went , but we tried to design the process a little bit further . 
+en fait , nous pensions que cela pourrait s' arrêter là , mais nous avons tenté d' aller plus loin dans le processus . 
+468
+this is a major mechanism of evolution right here . 
+vous avez sous les yeux un mécanisme majeur de l' évolution . 
+469
+we find all kinds of species that have taken up a second chromosome or a third one from somewhere , adding thousands of new traits in a second to that species . 
+on trouve des tas d' espèces qui ont intégré un deuxième chromosome ou un troisième provenant d' un autre organisme , ajoutant ainsi des milliers de nouvelles caractéristiques à cet organisme en une seconde . 
+470
+so , people who think of evolution as just one gene changing at a time have missed much of biology . 
+les gens qui croient encore que l' évolution se produit par la modification d' un gène à la fois ont loupé pas mal de choses en biologie . 
+471
+there are enzymes called restriction enzymes that actually digest DNA . 
+il existe des enzymes appelés enzymes de restriction qui peuvent digérer l' ADN . 
+472
+the chromosome that was in the cell does n't have one ; the chromosome we put in does . 
+le chromosome qui était dans la cellule n' en a pas . le chromosome que nous avons inséré , en a . 
+473
+it got expressed and it recognized the other chromosome as foreign material , chewed it up , and so we ended up just with a cell with the new chromosome . 
+l' enzyme a été produit à partir de notre chromosome , et il a reconnu l' autre chromosome comme un matériel étranger , l' a avalé , et nous nous sommes donc retrouvés avec une cellule avec un nouveau chromosome . 
+474
+it turned blue because of the genes we put in it . 
+elle a viré au bleu à cause des gènes que nous avons inséré . 
+475
+and with a very short period of time , all the characteristics of one species were lost and it converted totally into the new species based on the new software that we put in the cell . 
+et en très peu de temps , toutes les caractéristiques de l' organisme initial ont disparu et elle s' est entièrement transformée en un organisme nouveau , fondé sur le nouveau logiciel que nous avons introduit dans la cellule . 
+476
+all the proteins changed , the membranes changed ; when we read the genetic code , it 's exactly what we had transferred in . 
+toutes les protéines ont été modifiées , les membranes ont changé -- et quand on lit le code génétique , on retrouve exactement ce que nous avons transféré . 
+477
+so , this may sound like genomic alchemy , but we can , by moving the software of DNA around , change things quite dramatically . 
+cela peut ressembler à de l' alchimie génétique , mais nous pouvons réellement , en transférant l' ADN logiciel ici et là , faire des changements radicaux . 
+478
+now I 've argued , this is not genesis ; this is building on three and a half billion years of evolution . 
+selon moi , ce n' est pas pour autant la genèse de la vie , c' est la prolongation de 3,5 milliards d' années d' évolution , 
+479
+and I 've argued that we 're about to perhaps create a new version of the Cambrian explosion , where there 's massive new speciation based on this digital design . 
+mais je pense que nous sommes peut-être sur le point de créer une nouvelle version de l' explosion Cambrienne avec la création massive de nouvelles espèces à partir de cette conception numérique . 
+480
+why do this ? 
+pourquoi faire cela ? 
+481
+I think this is pretty obvious in terms of some of the needs . 
+je pense que c' est assez évident quand on regarde nos besoins . 
+482
+we 're about to go from six and a half to nine billion people over the next 40 years . 
+nous allons passer de 6,5 à 9 milliards d' êtres humains sur les 40 prochaines années . 
+483
+to put it in context for myself : I was born in 1946 . 
+si je rapporte cela à ma personne : je suis né en 1946 . 
+484
+there are now three people on the planet for every one of us that existed in 1946 ; within 40 years , there 'll be four . 
+il y a maintenant sur cette planète trois personnes pour chaque personne qui vivait en 1946 ; d' ici 40 ans , il y en aura quatre . 
+485
+we have trouble feeding , providing fresh , clean water , medicines , fuel for the six and a half billion . 
+nous avons des problèmes pour nourrir , pour fournir de l' eau pure , des médicaments , du carburant à 6,5 milliards d' êtres . 
+486
+it 's going to be a stretch to do it for nine . 
+ça sera d' autant plus difficile de le faire pour 9 . 
+487
+we use over five billion tons of coal , 30 billion-plus barrels of oil -- that 's a hundred million barrels a day . 
+nous consommons chaque année 5 milliards de tonnes de charbon , et plus de trente milliards de barils de pétrole , soit 100 millions de barils par jour . 
+488
+when we try to think of biological processes or any process to replace that , it 's going to be a huge challenge . 
+quand on essaye de concevoir des processus , biologique ou autre , pour remplacer ça , on comprend que c' est un challenge gigantesque . 
+489
+then of course , there 's all that CO2 from this material that ends up in the atmosphere . 
+et il y a aussi bien sûr tout ce dioxyde de carbone produit par ces processus qui est rejeté dans l' atmosphere . 
+490
+we now , from our discovery around the world , have a database with about 20 million genes , and I like to think of these as the design components of the future . 
+nous possèdons , suite à nos découvertes de par le monde , une base de données d' environ 20 millions de gènes , et je les considère comme autant de composants pour nos créations futures . 
+491
+the electronics industry only had a dozen or so components , and look at the diversity that came out of that . 
+l' industrie électronique ne dispose que d' une douzaine de composants et regardez la diversité qui en est issue . 
+492
+we 're limited here primarily by a biological reality and our imagination . 
+nous sommes limités principalement par la réalité biologique et par notre imagination . 
+493
+we now have techniques , because of these rapid methods of synthesis , to do what we 're calling combinatorial genomics . 
+nous disposons maintenant des techniques , grâce à ces méthodes de synthèse rapide , pour faire ce que nous appelons de la génomique combinatoire . 
+494
+we have the ability now to build a large robot that can make a million chromosomes a day . 
+nous avons maintenant la capacité de construire un grand robot capable de créer un million de chromosomes par jour . 
+495
+when you think of processing these 20 million different genes or trying to optimize processes to produce octane or to produce pharmaceuticals , new vaccines , we can just with a small team , do more molecular biology than the last 20 years of all science . 
+imaginez ce que l' on peut créer avec ces 20 millions de gènes , ou les processus que l' on peut optimiser pour produire de l' octane ou des médicaments , ou de nouveaux vaccins ... Nous pouvons , avec une équipe réduite , inventer plus de biologie moléculaire que toutes les découvertes scientifiques des 20 dernières années . 
+496
+and it 's just standard selection : we can select for viability , chemical or fuel production , vaccine production , etc. . 
+tout ça grâce à un simple processus de sélection . on peut privilégier la viabilité , la production de carburants , de produits chimiques , de vaccins , etc. . 
+497
+this is a screen snapshot of some true design software that we 're working on to actually be able to sit down and design species in the computer . 
+ceci est une photo d' écran d' un véritable logiciel de conception sur lequel nous travaillons pour nous permettre de créer des organismes sur ordinateur . 
+498
+you know , we do n't know necessarily what it 'll look like : we know exactly what their genetic code looks like . 
+on ne saura pas forcément dire à quoi ils ressembleront . mais on saura dire exactement quel est leur code génétique . 
+499
+we 're focusing on now fourth-generation fuels . 
+nous nous concentrons en ce moment sur les carburants de quatrième génération . 
+500
+you 've seen recently , corn to ethanol is just a bad experiment . 
+vous avez pu voir récemment que la transformation du maïs en éthanol n' est rien qu' une mauvaise expérience . 
+501
+we have second - and third-generation fuels that will be coming out relatively soon that are sugar , to much higher-value fuels like octane or different types of butanol . 
+les carburants de deuxième et troisième générations ne vont pas tarder à apparaître , ceux qui transforment le sucre en carburants beaucoup plus puissants comme l' octane ou différents types de butanol . 
+502
+but the only way we think that biology can have a major impact without further increasing the cost of food and limiting its availability is if we start with CO2 as its feedstock , and so we 're working with designing cells to go down this road . 
+mais nous pensons que la seule manière pour la biologie d' avoir un impact majeur sans pour autant augmenter le coût de production de la nourriture et en limiter la disponibilité est d' utiliser le CO 2 comme matière première , donc nous travaillons à concevoir des cellules pour aller dans ce sens , 
+503
+and we think we 'll have the first fourth-generation fuels in about 18 months . 
+et nous pensons obtenir les premiers carburants de quatrième génération dans environ 18 mois . 
+504
+sunlight and CO2 is one method ... 
+le soleil et le CO 2 c' est une des méthodes envisageables ... 
+505
+but in our discovery around the world , we have all kinds of other methods . 
+mais nous avons découvert de par le monde tout un tas d' autres méthodes . 
+506
+this is an organism we described in 1996 . 
+ceci est un organisme que nous avons décrit en 1996 . 
+507
+it lives in the deep ocean , about a mile and a half deep , almost at boiling-water temperatures . 
+il vit au fond des océans , vers 2500 m de profondeur , dans des températures de près de 100 ° C . 
+508
+it takes CO2 to methane using molecular hydrogen as its energy source . 
+il transforme le CO 2 en méthane en utilisant de l' hydrogène moléculaire comme source d' énergie . 
+509
+we 're looking to see if we can take captured CO2 , which can easily be piped to sites , convert that CO2 back into fuel to drive this process . 
+nous essayons de voir si nous pouvons récupérer du CO 2 capté , qu' on peut facilement transporter sur place par tuyaux , et reconvertir ce CO 2 en carburant pour alimenter ce processus . 
+510
+so , in a short period of time , we think that we might be able to increase what the basic question is of `` what is life ? '' 
+en très peu de temps , nous pensons pouvoir aller beaucoup plus loin que chercher juste la réponse à la question " qu' est -ce que la vie ? " 
+511
+we truly , you know , have modest goals of replacing the whole petrol-chemical industry -- Yeah . if you ca n't do that at TED , where can you ? -- become a major source of energy ... 
+vous voyez , nous avons l' ambition très modeste de remplacer toute l' industrie pétrochimique . ouais . où à part à TED peut -on faire cela ? devenir un producteur majeur d' énergie . 
+512
+but also , we 're now working on using these same tools to come up with instant sets of vaccines . 
+nous travaillons également sur l' utilisation de ces mêmes outils pour créer des vaccins instantanément . 
+513
+you 've seen this year with flu ; we 're always a year behind and a dollar short when it comes to the right vaccine . 
+vous l' avez vu cette année avec la grippe , nous avons toujours une année de retard et il nous manque toujours un dollar pour trouver le bon vaccin . 
+514
+I think that can be changed by building combinatorial vaccines in advance . 
+je pense que nous pouvons changer cela en construisant des vaccins par combinaison à l' avance . 
+515
+here 's what the future may begin to look like with changing , now , the evolutionary tree , speeding up evolution with synthetic bacteria , Archaea and , eventually , eukaryotes . 
+voici ce à quoi le futur pourrait commencer à ressembler en modifiant aujourd'hui l' arbre de l' évolution , en accélérant l' évolution avec des organismes synthétiques , bactéries , Archeae , et finalement des eucaryotes . 
+516
+we 're a ways away from improving people : our goal is just to make sure that we have a chance to survive long enough to maybe do that . thank you very much . 
+nous sommes encore loin de pouvoir modifier l' être humain . notre but est juste de nous assurer d' avoir une chance de survivre assez longtemps pour pouvoir arriver à cette étape . merci beaucoup . 

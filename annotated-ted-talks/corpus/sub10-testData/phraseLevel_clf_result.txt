@@ -1,0 +1,300 @@
+tensor([0, 1, 0, 1], device='cuda:0')
+tensor([0, 1, 0, 1], device='cuda:0')
+correctly predicted 4 / total 4
+tensor([1, 0, 1, 0, 1, 1], device='cuda:0')
+tensor([1, 0, 1, 0, 0, 1], device='cuda:0')
+correctly predicted 5 / total 6
+tensor([1, 0, 1, 0], device='cuda:0')
+tensor([1, 0, 1, 0], device='cuda:0')
+correctly predicted 4 / total 4
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 1, 0, 1], device='cuda:0')
+tensor([0, 1, 0, 1], device='cuda:0')
+correctly predicted 4 / total 4
+tensor([0, 1, 0, 0, 0, 1], device='cuda:0')
+tensor([0, 1, 0, 1, 1, 0], device='cuda:0')
+correctly predicted 3 / total 6
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([1, 1, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 0, 0, 1, 0], device='cuda:0')
+correctly predicted 5 / total 6
+tensor([0, 0], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 1 / total 2
+tensor([0, 0], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 1 / total 2
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 1, 0, 0], device='cuda:0')
+tensor([0, 1, 0, 1], device='cuda:0')
+correctly predicted 3 / total 4
+tensor([0, 0, 1, 1], device='cuda:0')
+tensor([0, 0, 1, 1], device='cuda:0')
+correctly predicted 4 / total 4
+tensor([0, 0, 0, 0, 0, 0, 0, 1], device='cuda:0')
+tensor([1, 1, 0, 1, 0, 0, 0, 1], device='cuda:0')
+correctly predicted 5 / total 8
+tensor([1, 0], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([1, 1, 0, 0], device='cuda:0')
+tensor([1, 1, 0, 0], device='cuda:0')
+correctly predicted 4 / total 4
+tensor([0, 1, 0, 0, 1, 1], device='cuda:0')
+tensor([0, 1, 0, 0, 1, 1], device='cuda:0')
+correctly predicted 6 / total 6
+tensor([0, 1, 0, 1], device='cuda:0')
+tensor([0, 1, 0, 1], device='cuda:0')
+correctly predicted 4 / total 4
+tensor([1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0], device='cuda:0')
+tensor([1, 1, 0, 0, 1, 0, 0, 1, 0, 1, 0, 1], device='cuda:0')
+correctly predicted 9 / total 12
+tensor([1, 0, 0, 1, 1, 0, 0], device='cuda:0')
+tensor([1, 1, 0, 1, 1, 0, 0], device='cuda:0')
+correctly predicted 6 / total 7
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([1, 1], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 1 / total 2
+tensor([1, 0, 0, 0, 0, 1, 1, 0], device='cuda:0')
+tensor([1, 0, 0, 0, 1, 1, 1, 0], device='cuda:0')
+correctly predicted 7 / total 8
+tensor([0, 1, 0, 1], device='cuda:0')
+tensor([0, 1, 0, 1], device='cuda:0')
+correctly predicted 4 / total 4
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 0], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 1 / total 2
+tensor([1, 1], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 1 / total 2
+tensor([0, 0, 1, 0], device='cuda:0')
+tensor([1, 0, 1, 0], device='cuda:0')
+correctly predicted 3 / total 4
+tensor([1, 0, 0, 0, 1, 1], device='cuda:0')
+tensor([1, 0, 0, 0, 1, 1], device='cuda:0')
+correctly predicted 6 / total 6
+tensor([1, 1, 0, 1, 1, 0], device='cuda:0')
+tensor([1, 1, 0, 0, 1, 0], device='cuda:0')
+correctly predicted 5 / total 6
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 0, 1], device='cuda:0')
+tensor([1, 0, 1], device='cuda:0')
+correctly predicted 2 / total 3
+tensor([0, 0], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 1 / total 2
+tensor([0, 0], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 1 / total 2
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([1, 0], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 0, 1, 0, 0, 1], device='cuda:0')
+tensor([0, 1, 1, 0, 0, 1], device='cuda:0')
+correctly predicted 5 / total 6
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 0], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 1 / total 2
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 0, 1, 1], device='cuda:0')
+tensor([0, 0, 1, 1], device='cuda:0')
+correctly predicted 4 / total 4
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([1, 0], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([1, 0], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([1, 0, 0, 1, 0, 1], device='cuda:0')
+tensor([1, 0, 0, 1, 0, 1], device='cuda:0')
+correctly predicted 6 / total 6
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([1, 0], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 0 / total 2
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([1, 0, 0, 1], device='cuda:0')
+tensor([1, 0, 0, 1], device='cuda:0')
+correctly predicted 4 / total 4
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([1, 1, 0, 1], device='cuda:0')
+tensor([1, 0, 0, 1], device='cuda:0')
+correctly predicted 3 / total 4
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 0, 1, 0], device='cuda:0')
+tensor([1, 0, 1, 0], device='cuda:0')
+correctly predicted 3 / total 4
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([1, 0], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1], device='cuda:0')
+tensor([0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1], device='cuda:0')
+correctly predicted 13 / total 14
+tensor([0, 0, 1, 0, 0, 1, 1, 1], device='cuda:0')
+tensor([0, 0, 1, 0, 0, 1, 1, 1], device='cuda:0')
+correctly predicted 8 / total 8
+tensor([1, 0], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 0, 0, 0], device='cuda:0')
+tensor([0, 1, 0, 1], device='cuda:0')
+correctly predicted 2 / total 4
+tensor([0, 0, 0, 1], device='cuda:0')
+tensor([0, 0, 1, 1], device='cuda:0')
+correctly predicted 3 / total 4
+tensor([1, 0], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 1, 1, 0, 0, 0, 0, 1], device='cuda:0')
+tensor([0, 1, 0, 0, 0, 1, 1, 1], device='cuda:0')
+correctly predicted 5 / total 8
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([1, 0, 0, 1, 0, 0], device='cuda:0')
+tensor([1, 0, 0, 1, 0, 1], device='cuda:0')
+correctly predicted 5 / total 6
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([1, 1], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 1 / total 2
+tensor([0, 0], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 1 / total 2
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 0], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 1 / total 2
+tensor([0, 0], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 1 / total 2
+tensor([0, 1, 0, 0], device='cuda:0')
+tensor([0, 1, 1, 0], device='cuda:0')
+correctly predicted 3 / total 4
+tensor([1, 0], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 0, 1, 1, 1, 0], device='cuda:0')
+tensor([0, 0, 1, 1, 1, 0], device='cuda:0')
+correctly predicted 6 / total 6
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 0], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 1 / total 2
+tensor([0, 0], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 1 / total 2
+tensor([0, 0, 1, 1], device='cuda:0')
+tensor([0, 1, 0, 1], device='cuda:0')
+correctly predicted 2 / total 4
+tensor([0, 1, 1, 0], device='cuda:0')
+tensor([0, 1, 1, 0], device='cuda:0')
+correctly predicted 4 / total 4
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([1, 0, 0, 1], device='cuda:0')
+tensor([1, 0, 0, 1], device='cuda:0')
+correctly predicted 4 / total 4
+tensor([1, 0], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([1, 0], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([0, 0, 1, 0], device='cuda:0')
+tensor([1, 0, 1, 0], device='cuda:0')
+correctly predicted 3 / total 4
+tensor([0, 1], device='cuda:0')
+tensor([0, 1], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([1, 0, 0, 0], device='cuda:0')
+tensor([1, 0, 0, 1], device='cuda:0')
+correctly predicted 3 / total 4
+tensor([0, 1, 1, 0, 0, 0], device='cuda:0')
+tensor([0, 1, 1, 0, 0, 1], device='cuda:0')
+correctly predicted 5 / total 6
+tensor([0, 1, 0, 1], device='cuda:0')
+tensor([0, 1, 0, 1], device='cuda:0')
+correctly predicted 4 / total 4
+tensor([0, 0, 0, 1], device='cuda:0')
+tensor([0, 0, 1, 1], device='cuda:0')
+correctly predicted 3 / total 4
+tensor([1, 0], device='cuda:0')
+tensor([1, 0], device='cuda:0')
+correctly predicted 2 / total 2
+tensor([1, 0, 1, 1], device='cuda:0')
+tensor([1, 0, 1, 0], device='cuda:0')
+correctly predicted 3 / total 4
+tensor([0, 1, 1, 0], device='cuda:0')
+tensor([0, 1, 1, 0], device='cuda:0')
+correctly predicted 4 / total 4
+tensor([0, 1, 1, 0], device='cuda:0')
+tensor([0, 1, 1, 0], device='cuda:0')
+correctly predicted 4 / total 4
+tensor([0, 1, 1, 0], device='cuda:0')
+tensor([0, 1, 1, 0], device='cuda:0')
+correctly predicted 4 / total 4
+tensor([0, 1, 0, 1], device='cuda:0')
+tensor([0, 1, 0, 1], device='cuda:0')
+correctly predicted 4 / total 4

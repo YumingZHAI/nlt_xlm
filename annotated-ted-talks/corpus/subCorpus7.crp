@@ -1,0 +1,399 @@
+1110
+if I can leave you with one big idea today , it 's that the whole of the data in which we consume is greater that the sum of the parts , and instead of thinking about information overload , what I 'd like you to think about is how we can use information so that patterns pop and we can see trends that would otherwise be invisible . 
+si je peux vous transmettre une grande idée aujourd'hui , c' est que l' ensemble des données que nous consommons est plus grand que la somme des parties , et , plutôt que de penser à la saturation d' information , ce que j' aimerai vous montrer c' est comment nous pouvons utiliser l' information de sorte que les structures ressortent et nous pouvons voir émerger des tendances qui sans cela seraient invisibles . 
+1111
+so what we 're looking at right here is a typical mortality chart organized by age . 
+donc ce que nous avons là est un tableau de mortalité classique organisé par âge . 
+1112
+this tool that I 'm using here is a little experiment . 
+l' outil que j' utilise ici est une petite expérience . 
+1113
+it 's called Pivot , and with Pivot what I can do is I can choose to filter in one particular cause of deaths -- say , accidents . 
+il s' appelle Pivot , et avec Pivot je peux choisir de focaliser sur une cause de décès en particulier , disons les accidents . 
+1114
+and , right away , I see there 's a different pattern that emerges . 
+et , immédiatement , je vois une tendance différente qui émerge . 
+1115
+this is because , in the mid-area here , people are at their most active , and over here they 're at their most frail . 
+c' est parce que , dans la zone du milieu , les gens sont les plus actifs , et ici ils sont les plus fragiles . 
+1116
+we can step back out again and then reorganize the data by cause of death , seeing that circulatory diseases and cancer are the usual suspects , but not for everyone . 
+on peut s' éloigner à nouveau et réorganiser les données par causes de décès , on voit que les maladies cardio-vasculaires et le cancer sont les suspects habituels , mais pas pour tout le monde . 
+1117
+if we go ahead and we filter by age -- say 40 years or less -- we see that accidents are actually the greatest cause that people have to be worried about . 
+si on continue et qu' on filtre par âge , disons 40 ans ou moins , on voit que les accidents sont en fait la plus grande cause dont les gens devraient se soucier . 
+1118
+and if you drill into that , it 's especially the case for men . 
+et si on creuse encore un peu , c' est particulièrement vrai pour les hommes . 
+1119
+so you get the idea that viewing information , viewing data in this way , is a lot like swimming in a living information info-graphic . 
+bref , vous comprenez l' idée que voir l' information , voir les données de cette façon , ressemble beaucoup à nager dans un bain vivant de données graphiques . 
+1120
+and if we can do this for raw data , why not do it for content as well ? 
+et si nous pouvons faire cela avec des données brutes , pourquoi ne pas le faire avec du contenu aussi ? 
+1121
+so what we have right here is the cover of every single Sports Illustrated ever produced . 
+donc ce que nous avons ici , c' est la couverture de chaque numéro de Sports Illustrated jamais paru . 
+1122
+it 's all here ; it 's all on the web . 
+tout est là . tout est en ligne . 
+1123
+you can go back to your rooms and try this after my talk . 
+vous pouvez rentrer chez vous et essayer après ma présentation . 
+1124
+with Pivot , you can drill into a decade . 
+avec Pivot , vous pouvez zoomer sur une décennie . 
+1125
+you can drill into a particular year . 
+vous pouvez zoomer sur une année particulière . 
+1126
+you can jump right into a specific issue . 
+vous pouvez vous rendre directement sur un numéro spécifique . 
+1127
+so I 'm looking at this ; I see the athletes that have appeared in this issue , the sports . 
+donc je regarde ça ; je vois les athlètes qui sont apparus dans ce numéro , les sports . 
+1128
+I 'm a Lance Armstrong fan , so I 'll go ahead and I 'll click on that , which reveals , for me , all the issues in which Lance Armstrong 's been a part of . 
+je suis un fan de Lance Armstrong , donc je vais cliquer là-dessus , ce qui me révèle tous les numéros dans lesquels Lance Armstrong est mentionné . 
+1129
+now , if I want to just kind of take a peek at these , I might think , `` well , what about taking a look at all of cycling ? '' 
+à présent , si je veux juste y jeter un coup d' oeil , je pourrais me dire , " bien , et si on regardait tout ce qui parle de cyclisme ? " 
+1130
+so I can step back , and expand on that . 
+donc je peux prendre un peu de recul , et explorer cette idée . 
+1131
+and I see Greg LeMond now . 
+et je vois Greg Lemond maintenant . 
+1132
+and so you get the idea that when you navigate over information this way -- going narrower , broader , backing in , backing out -- you 're not searching , you 're not browsing . 
+et vous commencez à comprendre l' idée que quand vous naviguez dans l' information de cette façon , en affinant , en élargissant en vous approchant , vous éloignant vous ne cherchez pas , vous ne naviguez pas . 
+1133
+you 're doing something that 's actually a little bit different . 
+vous faites quelque chose qui est en réalité un peu différent . 
+1134
+it 's in between , and we think it changes the way information can be used . 
+c' est entre les deux , et nous pensons que cela change la façon dont l' information peut être utilisée . 
+1135
+so I want to extrapolate on this idea a bit with something that 's a little bit crazy . 
+et je voudrais extrapoler sur cette idée un peu avec quelque chose qui est légèrement fou . 
+1136
+what we 're done here is we 've taken every single Wikipedia page and we reduced it down to a little summary . 
+ce que nous avons fait ici c' est que nous avons pris chaque page de Wikipédia et les avons réduite à un petit résumé . 
+1137
+so the summary consists of just a little synopsis and an icon to indicate the topical area that it comes from . 
+donc le résumé est juste constitué de petits synopsis et d' une icône pour indiquer le thème dont il provient . 
+1138
+I 'm only showing the top 500 most popular Wikipedia pages right here . 
+je ne montre ici que les 500 premières pages les plus populaires de Wikipédia . 
+1139
+but even in this limited view , we can do a lot of things . 
+mais même dans cette vue limitée , on peut faire un tas de choses . 
+1140
+right away , we get a sense of what are the topical domains that are most popular on Wikipedia . 
+immédiatement , on a une idée des domaines thématiques qui sont les plus populaires sur Wikipédia . 
+1141
+I 'm going to go ahead and select government . 
+je vais me lancer et choisir gouvernement . 
+1142
+now , having selected government , I can now see that the Wikipedia categories that most frequently correspond to that are Time magazine People of the Year . 
+maintenant , ayant selectionné gouvernement , je peux désormais voir que les catégories de Wikipédia qui correspondent le plus fréquement à cela sont les Personnalités de l' Année du magazine Time . 
+1143
+so this is really important because this is an insight that was not contained within any one Wikipedia page . 
+et c' est important car c' est une information qui n' était contenue dans aucune des pages de Wikipédia . 
+1144
+it 's only possible to see that insight when you step back and look at all of them . 
+il n' est possible de faire cette observation qu' en prenant du recul et en les regardant toutes . 
+1145
+looking at one of these particular summaries , I can then drill into the concept of Time magazine Person of the Year , bringing up all of them . 
+en regardant l' un de ces résumés en particulier , je peux maintenant creuser le concept de Personnalité de l' Année du magazine Time , en les affichant toutes . 
+1146
+so looking at these people , I can see that the majority come from government ; some have come from natural sciences ; some , fewer still , have come from business -- there 's my boss -- and one has come from music . 
+en regardant ces personnes , je vois que la majorité viennent du gouvernement . certains viennent des sciences naturelles . d' autres , moins nombreux encore , viennent du monde des affaires . voilà mon patron . et un vient du monde de la musique . 
+1147
+and interestingly enough , Bono is also a TED Prize winner . 
+et de façon interessante , Bono est également un lauréat du Prix TED . 
+1148
+so we can go , jump , and take a look at all the TED Prize winners . 
+ainsi on peut continuer , passer , et jeter un oeil à tous les lauréats du Prix TED . 
+1149
+so you see , we 're navigating the web for the first time as if it 's actually a web , not from page-to-page , but at a higher level of abstraction . 
+et vous voyez , nous parcourons le réseau pour la première fois comme si c' était effectivement un réseau , pas de page en page , mais à un plus haut degré d' abstraction . 
+1150
+and so I want to show you one other thing that may catch you a little bit by surprise . 
+et aussi je voudrais vous montrer une autre chose qui pourrait bien vous prendre un peu par surprise . 
+1151
+I 'm just showing the New York Times website here . 
+je vous montre juste le site web du New York Times là . 
+1152
+so Pivot , this application -- I do n't want to call it a browser ; it 's really not a browser , but you can view web pages with it -- and we bring that zoomable technology to every single web page like this . 
+donc Pivot , cette application -- je ne veux pas l' appeler un navigateur ; ce n' est vraiment pas un navigateur , mais vous pouvez visiter des pages web avec -- et nous introduisons cette technologie de zoom pour chaque page web comme ceci . 
+1153
+so I can step back , pop right back into a specific section . 
+donc je peux m' éloigner , revenir directement à une section particulière . 
+1154
+now the reason why this is important is because , by virtue of just viewing web pages in this way , I can look at my entire browsing history in the exact same way . 
+et la raison pour laquelle c' est important c' est que , étant capable de consulter des pages web de cette façon je peux regarder tout l' historique de ma navigation exactement de la même manière . 
+1155
+so I can drill into what I 've done over specific time frames . 
+donc je peux creuser dans ce que j' ai fait au cours de certains laps de temps . 
+1156
+here , in fact , is the state of all the demo that I just gave . 
+la , en fait , c' est l' état de toute la démo que je viens de donner . 
+1157
+and I can sort of replay some stuff that I was looking at earlier today . 
+et je peux rejouer certains trucs que j' ai consulté plus tôt aujourd'hui . 
+1158
+and , if I want to step back and look at everything , I can slice and dice my history , perhaps by my search history -- here , I was doing some nepotistic searching , looking for Bing , over here for Live Labs Pivot . 
+et , si je veux m' éloigner et tout regarder je peux décortiquer mon historique peut-être mon historique de recherche . là , je faisais des recherches népotiques , faisant des recherches pour Bing , ici pour le Live Labs Pivot . 
+1159
+and from these , I can drill into the web page and just launch them again . 
+et à partir de ça , je peux plonger dans la page web et simplement les lancer à nouveau . 
+1160
+it 's one metaphor repurposed multiple times , and in each case it makes the whole greater than the sum of the parts with the data . 
+c' est une métaphore réutilisée de multiples fois , et à chaque fois ça rend le tout plus grand que la somme des parties avec les données . 
+1161
+so right now , in this world , we think about data as being this curse . 
+et à cet instant , dans ce monde , on pense que les données sont cette malédiction . 
+1162
+we talk about the curse of information overload . 
+on parle du problème de la surcharge d' information . 
+1163
+we talk about drowning in data . 
+on parle d' être noyé sous les données . 
+1164
+what if we can actually turn that upside down and turn the web upside down , so that instead of navigating from one thing to the next , we get used to the habit of being able to go from many things to many things , and then being able to see the patterns that were otherwise hidden ? 
+et si on pouvait en fait retourner la situation et renverser le web , de sorte que au lieu d' une chose à l' autre , on prenne l' habitude d' aller d' un ensemble de choses à un autre ensemble de choses , et ce faisant d' être capable de discerner les tendances qui sans cela auraient été cachées ? 
+1165
+if we can do that , then instead of being trapped in data , we might actually extract information . 
+si nous pouvons faire ça , alors , plutôt que d' être prisonnier des données , nous pourrions en fait extraire de l' information . 
+1166
+and , instead of dealing just with information , we can tease out knowledge . 
+et , plutôt que seulement gérer l' information , nous pouvons en extraire de la connaissance . 
+1167
+and if we get the knowledge , then maybe even there 's wisdom to be found . 
+et si nous avons la connaissance , alors il y a peut-être même de la sagesse à en tirer . 
+1168
+so with that , I thank you . 
+et avec ça , je vous remercie . 
+1544
+several years ago here at TED , Peter Skillman introduced a design challenge called the marshmallow challenge . 
+il y a plusieurs années , ici à Ted , Peter Skillman a présenté une épreuve de conception appelée l' épreuve du marshmallow . 
+1545
+and the idea 's pretty simple : teams of four have to build the tallest free-standing structure out of 20 sticks of spaghetti , one yard of tape , one yard of string and a marshmallow . 
+et l' idée est plutôt simple . des équipes de quatre personnes doivent bâtir la plus haute structure tenant debout avec 20 spaghettis , un mètre de ruban collant , un mètre de ficelle , et un marshmallow . 
+1546
+the marshmallow has to be on top . 
+le marshmallow doit être placé au sommet . 
+1547
+and , though it seems really simple , it 's actually pretty hard because it forces people to collaborate very quickly . 
+bien que cela semble vraiment simple , c' est en fait plutôt difficile , parce que ça oblige les gens à collaborer rapidement . 
+1548
+and so , I thought this was an interesting idea , and I incorporated it into a design workshop . 
+j' ai trouvé que c' était une idée intéressante , alors je l' ai insérée dans un atelier de conception . 
+1549
+and it was a huge success . 
+et ça a été un grand succès . 
+1550
+and since then , I 've conducted about 70 design workshops across the world with students and designers and architects , even the CTOs of the Fortune 50 , and there 's something about this exercise that reveals very deep lessons about the nature of collaboration , and I 'd like to share some of them with you . 
+depuis , j' ai dirigé environ 70 ateliers de conception dans le monde entier , avec des étudiants , des designers et des architectes , et même les Directeurs Techniques d' entreprises du Fortune 50 , et il y a quelque chose dans cet exercice qui révèle de profonds enseignements sur la nature de la collaboration , et j' aimerais en partager certains avec vous . 
+1551
+so , normally , most people begin by orienting themselves to the task . 
+bon , normalement la plupart des gens commencent par prendre leurs marques par rapport à la tâche . 
+1552
+they talk about it , they figure out what it 's going to look like , they jockey for power . 
+ils en parlent , ils cherchent à quoi ça va ressembler , ils manoeuvrent pour le pouvoir . 
+1553
+then they spend some time planning , organizing , they sketch and they lay out spaghetti . 
+et puis ils passent un peu de temps à planifier , à organiser . ils font des croquis , et disposent les spaghettis . 
+1554
+they spend the majority of their time assembling the sticks into ever-growing structures . 
+ils passent la majeure partie de leur temps à assembler les bâtons en structures de plus en plus grandes . 
+1555
+and then finally , just as they 're running out of time , someone takes out the marshmallow , and then they gingerly put it on top , and then they stand back , and -- ta-da ! -- they admire their work . 
+et puis , à la fin , juste quand le délai se rapproche , quelqu'un prend le marshmallow , et le pose précautionneusement au sommet , puis ils reculent , et ... Ta-daaa ! ils admirent leur travail . 
+1556
+but what really happens , most of the time , is that the `` ta-da '' turns into an `` uh-oh , '' because the weight of the marshmallow causes the entire structure to buckle and to collapse . 
+mais en fait , ce qui arrive , la plupart du temps , c' est que le " ta-daa " se termine en " oh-oh " parce que le poids du marshmallow fait que toute la structure se déforme et s' écroule . 
+1557
+so there are a number of people who have a lot more `` uh-oh '' moments than others , and among the worst are recent graduates of business school . 
+il y a un certain nombre de participants qui ont bien plus de " oh-oh " que les autres , et , parmi les pires , les jeunes diplômés des écoles de commerce . 
+1558
+they lie , they cheat , they get distracted and they produce really lame structures . 
+ils mentent , ils trichent , ils sont distraits , et les structures qu' ils produisent sont vraiment boiteuses . 
+1559
+and of course there are teams that have a lot more `` ta-da '' structures , and among the best are recent graduates of kindergarten . 
+et bien sûr , il y a des équipes qui produisent bien plus de structures " ta-daa " , et , parmi les meilleures , les jeunes diplômés d' écoles maternelles . 
+1560
+and it 's pretty amazing . 
+et c' est vraiment étonnant . 
+1561
+as Peter tells us , not only do they produce the tallest structures , but they 're the most interesting structures of them all . 
+comme le dit Peter , non seulement ils produisent les structures les plus hautes , mais ce sont aussi les structures les plus intéressantes . 
+1562
+so the question you want to ask is : how come ? why ? what is it about them ? 
+alors , la question qu' on se pose , c' est : comment ça se fait ? pourquoi ? qu' ont -ils de spécial ? 
+1563
+and Peter likes to say that none of the kids spend any time trying to be CEO of Spaghetti , Inc. . right ? 
+Peter aime dire ceci : " aucun des enfants n' a passé une seule minute à essayer de devenir Directeur Technique de la Spaghetti Inc. " . c' est vrai . 
+1564
+they do n't spend time jockeying for power . 
+ils ne passent pas leur temps à manoeuvrer pour le pouvoir . 
+1565
+but there 's another reason as well . 
+mais il y a aussi une autre raison . 
+1566
+and the reason is that business students are trained to find the single right plan , right ? 
+c' est que les étudiants des écoles de commerce sont entraînés à trouver l' unique plan qui marchera . 
+1567
+and then they execute on it . 
+et puis le mettre en oeuvre . 
+1568
+and then what happens is , when they put the marshmallow on the top , they run out of time and what happens ? 
+et puis , ce qui arrive , quand ils posent le marshmallow au sommet , ils ne leur reste plus de temps , et alors ? 
+1569
+it 's a crisis . 
+c' est la crise . 
+1570
+sound familiar ? right . 
+ça vous rappelle quelque chose ? parfait . 
+1571
+what kindergarteners do differently is that they start with the marshmallow , and they build prototypes , successive prototypes , always keeping the marshmallow on top , so they have multiple times to fix when they build prototypes along the way . 
+ce que les équipes de maternelle font différemment , c' est qu' elles commencent par le marshmallow , et construisent des prototypes , des prototypes successifs , en gardant toujours le marshmallow au sommet , et ont ainsi de nombreuses occasions de réparer les prototypes en difficulté . 
+1572
+designers recognize this type of collaboration as the essence of the iterative process . 
+les concepteurs reconnaîtront ce type de coopération comme la base essentielle du processus itératif . 
+1573
+and with each version , kids get instant feedback about what works and what does n't work . 
+avec chaque version , les enfants ont un retour d' information instantané sur ce qui marche ou pas . 
+1574
+so the capacity to play in prototype is really essential , but let 's look at how different teams perform . 
+donc , la capacité de travailler avec des prototypes est essentielle , mais voyons quelles sont les résultats des différentes équipes . 
+1575
+so the average for most people is around 20 inches ; business schools students , about half of that ; lawyers , a little better , but not much better than that , kindergarteners , better than most adults . 
+la moyenne pour la plupart des gens est de 50 centimètres , pour les étudiants d' écoles de commerce , à peu près de la moitié , les avocats , un peu mieux , mais pas beaucoup , et pour les maternelles , mieux que pour la majorité des adultes . 
+1576
+who does the very best ? 
+qui sont vraiment les meilleurs ? 
+1577
+architects and engineers , thankfully . 
+les architectes et les ingénieurs , heureusement ! 
+1578
+thirty-nine inches is the tallest structure I 've seen . 
+un mètre , c' est la plus haute structure que j' aie vue . 
+1579
+and why is it ? because they understand triangles and self-reinforcing geometrical patterns are the key to building stable structures . 
+et pourquoi donc ? parce qu' ils comprennent que les triangles et les schémas géométriques auto-porteurs sont la clé pour construire des structures stables . 
+1580
+so CEOs , a little bit better than average , but here 's where it gets interesting . 
+les directeurs techniques , donc , font un peu mieux que la moyenne . mais voilà où ça devient intéressant . 
+1581
+if you put you put an executive admin . on the team , they get significantly better . 
+si on ajoute un cadre administratif à l' équipe , les résultats augmentent de manière significative . 
+1582
+it 's incredible . you know , you look around , you go , `` oh , that team 's going to win . '' 
+c' est incroyable . vous savez , vous regardez autour de vous , et vous vous dites " oh , c' est CETTE équipe qui va gagner . " 
+1583
+you can just tell beforehand . and why is that ? 
+on peut le dire à l' avance . et pourquoi ? 
+1584
+because they have special skills of facilitation . 
+parce qu' ils possèdent ces compétences particulières de facilitation . 
+1585
+they manage the process , they understand the process . 
+ils gèrent le processus , ils comprennent le process . 
+1586
+and any team who manages and pays close attention to work will significantly improve the team 's performance . 
+et toute équipe qui gère et suit avec une grande attention le déroulement du travail améliorera de manière significative ses performances . 
+1587
+specialized skills and facilitation skills are the combination that leads to strong success . 
+des compétences spécialisées et des compétences de facilitation , leur combinaison conduit au succès . 
+1588
+if you have 10 teams that typically perform , you 'll get maybe six or so that have standing structures . 
+si vous avez 10 équipes en train de concourir , six environ , peut-être , réaliseront une structure qui tient debout . 
+1589
+and I tried something interesting . 
+et j' ai essayé quelque chose d' intéressant . 
+1590
+I thought , let 's up the ante , once . 
+j' ai pensé " cette fois-ci , montons les enjeux " . 
+1591
+so I offered a 10,000 dollar prize of software to the winning team . 
+alors j' ai offert un prix d' une valeur de 10 000 $ en logiciels à l' équipe gagnante . 
+1592
+so what do you think happened to these design students ? 
+et que pensez -vous qu' il est arrivé à ces étudiants en design ? 
+1593
+what was the result ? 
+quel a été le résultat ? 
+1594
+here 's what happened : not one team had a standing structure . 
+voici ce qui est arrivé . pas une seule équipe n' avait de structure tenant debout . 
+1595
+if anyone had built , say , a one inch structure , they would have taken home the prize . 
+si une seule avait construit , disons , une structure de 3 centimètres , ils auraient ramené le prix à la maison ! 
+1596
+so , is n't that interesting ? that high stakes have a strong impact . 
+alors , n' est -ce pas intéressant , que des enjeux élevés aient un impact fort ? 
+1597
+we did the exercise again with the same students . 
+nous avons refait l' exercice avec les mêmes étudiants . 
+1598
+what do you think happened then ? 
+que pensez -vous qu' il est alors arrivé ? 
+1599
+so now they understand the value of prototyping . 
+là , ils comprenaient l' importance du prototypage . 
+1600
+so the same team went from being the very worst to being among the very best . 
+et la même équipe est passée du groupe des pires à celui des meilleurs . 
+1601
+they produced the tallest structures in the least amount of time . 
+ils ont réalisé la plus haute structure dans le temps le plus court . 
+1602
+so there 's deep lessons for us about the nature of incentives and success . 
+il y a là de grandes leçons pour nous , à propos de la nature des motivations et du succès . 
+1603
+so , you might ask : why would anyone actually spend time writing a marshmallow challenge ? 
+alors , vous pourriez vous demander : " pourquoi quelqu'un passe -t-il du temps à organiser une " épreuve du Marshamallow " ? 
+1604
+and the reason is , I help create digital tools and processes to help teams build cars and video games and visual effects . 
+la raison est que j' aide à créer des outils numériques et des processus qui aident des équipes à réaliser des automobiles , des jeux vidéo , et des effets spéciaux . 
+1605
+and what the marshmallow challenge does is it helps them identify the hidden assumptions . 
+et ce que fait l' Épreuve du Marshamallow , c' est qu' elle les aide à identifier les préjugés cachés . 
+1606
+the challenge provides a shared experience , a common language , a common stance to build the right prototype . 
+la compétition apporte une expérience partagée , un langage commun , une attitude commune pour construire le " bon " prototype . 
+1607
+and so , this is the value of the experience , of this so simple exercise . 
+et c' est cela , la valeur de cette expérience , de cet exercice si simple . 
+1608
+and those of you who are interested may want to go to MarshmallowChallenge.com . 
+et ceux que cela intéresse peuvent aller sur marshmallowchallenge.com . 
+1609
+it 's a blog that you can look at how to build the marshmallows . 
+c' est un blog que vous pouvez consulter sur la manière de conduire les " épreuves du Marshamallow " . 
+1610
+there 's step-by-step instructions on this . 
+il y a des instructions pas à pas . 
+1611
+there are crazy examples from around the world of how people tweak and adjust the system . 
+il y a des exemples fous venus du monde entier , de comment les gens tordent et ajustent le système . 
+1612
+there 's world records that are on this as well . 
+il y a aussi les records du monde . 
+1613
+and the fundamental lesson , I believe , is that design truly is a contact sport . 
+et la leçon fondamentale , je crois , est que le design est réellement un sport de contact . 
+1614
+it demands that we bring all of our senses to the task , and that we apply the very best of our thinking , our feeling and our doing to the challenge that we have at hand . 
+il exige que nous apportions tous nos sens à la tâche , et que nous appliquions le meilleur de notre réflexion , de notre ressenti et de notre application au challenge que nous avons devant nous . 
+1615
+and sometimes , a little prototype of this experience is all that it takes to turn us from an `` uh-oh '' moment to a `` ta-da '' moment . 
+et , parfois , un petit prototype de cette expérience sera la seule chose qui qui nous permettra de faire d' un " oh-oh " un " ta-daa " . 
+1616
+and that can make a big difference . 
+et ça peut faire une grande différence . 
+1617
+thank you very much . 
+merci beaucoup 

@@ -1,0 +1,111 @@
+[5]:[5]:literal	[8]:[8]:modulation	[9]:[10, 11, 12]:literal	[10, 11]:[9]:modulation	[14]:[15, 17]:transposition	[18]:[23]:literal
+[1]:[1, 2, 3, 4]:modulation	[40]:[44]:literal
+[3, 4, 5]:[4, 5, 6]:literal	[9, 10]:[8, 9, 10]:generalization
+[4, 5, 6, 7]:[3, 4, 5, 6]:transposition	[16, 17, 18]:[17, 18]:generalization	[34]:[34]:literal	[36]:[36]:literal
+[3, 4]:[3]:literal	[6, 7, 8]:[8, 9, 10]:transposition	[9, 10]:[5, 6, 7]:modulation	[12]:[14, 15]:particularization	[13, 14, 15]:[12, 13]:generalization	[17, 18, 19]:[20, 21, 22, 23]:transposition	[20, 21, 22]:[18, 19]:literal	[23]:[17]:literal	[24]:[24]:literal	[27]:[27]:literal	[28]:[28]:literal	[29]:[29, 30]:literal	[35]:[36]:modulation	[51, 52, 53]:[58, 59, 60, 61]:transposition
+[3, 4, 5, 6, 7]:[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]:modulation	[15, 16]:[20, 21, 22]:modulation	[17]:[23]:literal	[22, 23, 24]:[27, 28, 29, 30]:literal	[26]:[33]:modulation	[27]:[35, 36]:literal	[30]:[39]:literal	[31, 32]:[40, 41, 42, 43, 44]:transposition	[34, 35, 36, 37]:[46, 47, 48, 49]:literal	[40, 41, 42, 43, 44]:[53, 54, 55, 56, 57, 58, 59, 60, 61]:modulation
+[9]:[13]:literal	[10, 11]:[15, 16, 17]:literal	[15]:[21, 22, 23, 24, 25]:particularization	[19]:[27]:literal	[21, 22, 23, 24, 25, 26]:[30, 31, 32, 33, 34]:transposition	[31, 32]:[37, 38, 39, 40, 41]:transposition
+[2]:[3]:modulation	[10]:[9, 10]:particularization	[12, 13]:[12]:literal	[21, 22]:[19]:literal
+[4]:[5]:literal	[18, 19, 20, 21]:[22, 23, 24]:transposition	[22]:[25]:literal	[24, 25, 26]:[27, 28]:literal	[27, 28, 29, 30]:[29, 30, 31, 32, 33, 34]:modulation_transposition	[34, 35, 36, 37, 38, 39, 40, 41, 42, 43]:[41, 42, 43, 44, 45, 46]:modulation	[45, 46]:[48]:equivalence	[53, 54, 55, 56]:[55, 56, 57, 58, 59, 60, 61]:modulation_transposition
+[5, 6, 7, 8, 9, 10, 11, 12]:[5, 6, 7, 8, 9, 10, 11, 12, 13]:modulation_transposition	[13]:[15]:literal
+[1]:[1]:literal	[2, 3, 4, 5]:[2, 3, 4, 5, 6, 7, 8]:modulation	[11, 12, 13]:[14]:generalization	[16]:[16]:literal
+[6, 7, 8, 9]:[7, 8]:modulation_transposition	[16, 19]:[13]:literal
+[4]:[4]:literal	[12, 13, 14, 15]:[13, 14, 15, 16, 17, 18, 19, 20]:transposition
+[7]:[7, 8]:particularization	[8]:[12]:lexical_shift	[13]:[17, 18]:literal	[22]:[29, 30, 31]:transposition
+[3]:[5]:literal	[21]:[22, 23]:transposition
+[1, 2, 3, 4]:[1, 2, 4, 5, 6]:modulation	[15]:[3]:literal	[16]:[19]:literal	[19, 20, 21, 22, 23, 24, 25]:[26, 27, 28, 29, 33, 34]:transposition	[26, 27, 28]:[21, 22, 23, 24, 25]:transposition	[30, 31, 32]:[37, 38, 39]:particularization	[34]:[41]:literal	[43]:[52]:lexical_shift
+[4, 5, 6]:[3]:generalization	[7]:[4]:literal
+[5]:[5]:literal	[11]:[11, 12]:transposition
+[1]:[1]:literal	[5]:[5, 6]:transposition	[7]:[8]:literal	[10, 11, 12, 13, 14]:[11, 12, 13, 14]:modulation
+[1]:[1]:literal	[16, 17, 18]:[22, 23, 24, 25, 26]:equivalence	[25]:[43, 44]:transposition	[34]:[51]:particularization
+[1]:[1]:literal	[5]:[3]:literal	[6, 7]:[5, 6, 7, 8, 9]:modulation	[10, 11]:[12]:generalization
+[2]:[1]:literal	[23, 24]:[29, 30, 31, 32, 33, 34]:modulation
+[1, 2, 3, 4, 5]:[1, 2, 3, 4, 5, 6]:modulation	[8]:[9]:particularization	[9]:[10]:literal	[16, 17]:[16, 17]:literal	[22, 23, 24]:[22, 23, 24]:literal	[25]:[25]:particularization	[31]:[31]:literal	[34]:[34]:literal	[38, 39]:[38, 39]:transposition	[41, 42, 43, 44]:[41, 42]:transposition
+[2, 3, 4]:[3, 4, 5, 6]:transposition	[6]:[8, 9]:literal
+[6, 7, 8]:[5, 6, 7, 8, 9, 10, 11]:transposition	[15, 16, 17, 18, 19, 20, 21, 22]:[12, 13, 14, 15, 16, 17, 18, 19, 20]:modulation	[23]:[21]:literal	[27, 28, 29, 30, 31]:[28, 29, 30, 31, 32]:modulation	[35]:[35]:literal	[44, 45]:[43, 44, 45, 47, 48, 49]:literal
+[2, 3, 4, 5, 6, 7]:[2, 3, 4, 5, 6]:generalization	[22]:[21, 22]:literal
+[19, 20]:[22, 23, 24, 25, 26, 27, 28]:particularization	[25]:[40, 41]:literal	[56]:[75, 76]:generalization	[62]:[82]:literal	[65]:[97]:literal	[68]:[83]:literal	[70]:[85, 86, 87, 88]:particularization	[82, 83, 84, 85]:[110, 111, 112, 113, 114, 115]:transposition
+[1]:[1, 2, 3]:particularization	[2, 3, 4]:[4, 5, 6, 7, 8, 9, 10, 11, 12]:particularization	[16, 17, 18, 19]:[27, 28, 29, 30]:modulation	[21]:[32]:literal	[30]:[45]:literal	[32]:[47]:literal
+[3, 4, 5]:[3]:modulation	[12, 13]:[13]:literal	[30, 31]:[30, 31, 32]:modulation	[34]:[34]:literal
+[7]:[3, 4, 8]:modulation	[17]:[19]:lexical_shift	[18]:[20, 21, 22]:modulation	[20, 25, 26]:[25, 26]:modulation_transposition	[21]:[27]:literal	[22, 23]:[29, 30]:literal
+[15, 16, 17, 18]:[13, 14, 15, 16]:modulation	[23]:[21]:literal
+[4, 5, 6, 7]:[5, 6, 7, 8]:modulation	[10]:[11]:literal
+[2, 3, 4]:[2, 3, 4]:equivalence	[6]:[7]:literal	[9, 10, 11]:[11]:generalization	[13, 14]:[13, 14, 15]:particularization	[15]:[16, 17, 18]:transposition	[22, 23]:[24, 25, 26]:modulation	[28]:[33, 34]:literal	[38]:[43]:literal
+[1]:[1]:literal	[11]:[7]:particularization	[15, 16]:[12, 13, 14]:literal	[18, 19, 20, 21]:[16, 17, 18, 19, 20, 21]:modulation_transposition
+[1, 2, 3, 4, 5]:[1, 2, 3]:transposition	[7, 8]:[5, 6]:literal	[9, 10]:[12]:modulation	[11]:[16]:literal
+[5]:[6, 7]:literal	[10, 11, 12, 13, 14]:[11, 12, 13, 14, 15, 16]:modulation_transposition	[16]:[17]:literal	[17, 18]:[18, 19, 20]:modulation
+[2]:[3]:literal	[3, 8, 9]:[2, 11, 12, 13]:transposition	[24]:[30]:particularization	[26]:[31]:literal	[29]:[35]:literal	[37, 38]:[46, 47]:generalization
+[21]:[15]:literal	[25, 26]:[19, 20, 21]:literal	[27, 28, 29]:[22, 23]:transposition	[35, 36, 37, 38]:[34, 35]:transposition
+[3]:[3]:literal	[7]:[6, 7, 8]:transposition	[10]:[13]:literal	[15, 16]:[19, 20]:modulation
+[5, 6]:[5, 6, 7]:literal	[10, 11, 12]:[11, 12]:transposition	[36]:[35]:literal	[37, 38]:[36, 37]:literal	[42, 43, 44, 45, 46]:[41, 42, 43, 44, 45, 46, 47]:generalization	[56, 57, 58, 59]:[54, 55, 56, 57, 58, 59]:modulation	[61]:[61, 62]:particularization	[65]:[66]:literal
+[13, 14, 15]:[11, 12, 13, 14, 15]:modulation	[24, 25]:[28]:literal
+[8]:[10, 11, 12]:literal	[17]:[20]:literal	[21, 22, 23, 24, 25]:[26, 28, 29, 30, 31, 32]:modulation_transposition	[30]:[35, 36]:modulation	[38, 39, 40, 41, 42, 43]:[43, 44, 45, 46, 47, 48, 49, 50]:transposition	[52, 53]:[56]:literal
+[44]:[46]:literal	[46]:[48, 50]:transposition	[48]:[51]:literal	[71, 72, 73, 74]:[73, 74, 75, 76]:transposition	[79]:[82]:literal	[80]:[83, 85]:transposition	[85, 86, 87, 88, 89]:[89, 90, 91, 92, 93]:transposition	[97]:[104]:literal
+[3]:[3, 4]:literal	[4, 5, 6]:[5, 6, 7]:particularization	[12]:[16]:literal	[45, 46, 47, 48, 49, 50]:[53, 54, 55, 56, 57, 58]:modulation	[55]:[65]:literal	[61]:[73, 74, 75]:particularization
+[21]:[18, 19]:literal	[35, 36, 37, 38, 39]:[29, 30]:particularization
+[4]:[7]:particularization	[10, 11]:[13, 14, 15]:literal	[12]:[16]:lexical_shift	[17, 18, 19, 20]:[23, 24, 25]:modulation_transposition	[22, 23]:[27, 28, 29, 30]:modulation_transposition	[25, 26, 27]:[31, 32, 33, 34]:particularization	[38]:[45]:literal	[39, 40, 41, 42]:[46, 47, 48, 49, 50]:literal
+[2, 3, 4]:[2, 3, 5]:transposition	[5]:[6]:literal
+[8]:[7, 8]:particularization	[9, 10]:[9, 10]:equivalence
+[4, 5, 6]:[5, 6, 7, 8]:modulation	[7]:[9]:literal
+[4, 5]:[2]:generalization	[24]:[24]:literal	[33, 34, 35]:[32, 33, 34, 35, 36]:transposition	[40]:[40]:literal
+[3]:[3, 4, 5, 6]:particularization	[4]:[7]:literal
+[7, 8, 9]:[5]:generalization	[14]:[9]:literal	[25]:[19]:generalization	[26]:[20]:literal	[45]:[48]:literal	[50, 51]:[55, 56, 57, 58]:transposition	[56, 57]:[59, 60, 61]:modulation	[65]:[72]:literal	[69]:[79]:literal	[83, 84, 85, 86]:[92, 93, 94, 95, 96]:transposition
+[2, 3]:[1]:generalization	[4]:[2, 3]:particularization	[6, 7]:[5]:literal	[9]:[7]:particularization	[11, 12]:[9, 10]:literal	[14, 15]:[12, 13, 14]:literal
+[1, 2, 3]:[1, 2, 3]:literal	[7, 8, 9, 10, 11, 12]:[7, 8, 9]:modulation_transposition
+[9]:[13, 14]:literal	[11]:[15]:generalization
+[15]:[11]:literal	[23, 24, 25, 26, 27]:[16, 17, 18, 19, 20, 21]:particularization
+[1, 2]:[1, 2, 3, 4]:modulation	[9]:[5, 6]:literal	[20]:[20, 21, 22, 23, 24]:transposition	[21]:[25, 26]:literal	[27]:[34, 35]:modulation	[34]:[38]:literal	[40]:[43]:literal	[41]:[44]:literal	[43, 44]:[46, 47]:generalization	[45, 46, 47, 48, 49]:[48, 49, 50]:generalization
+[16, 17]:[6]:particularization	[22]:[12, 13]:literal	[51]:[46]:literal	[52]:[47, 48, 49]:particularization
+[1, 2, 3, 4, 5]:[1, 2]:transposition	[11]:[11, 12, 13, 14]:transposition	[13]:[16]:literal	[22]:[25]:literal
+[2]:[2]:literal	[9]:[8]:literal	[17, 18, 19, 20, 21]:[16, 17, 18, 19]:transposition	[26]:[23, 24]:particularization
+[1]:[1]:literal	[6]:[6]:literal	[7]:[7]:transposition	[10, 11, 12]:[10]:transposition
+[8, 9]:[1]:lexical_shift	[13, 14, 15]:[7, 8]:literal	[17]:[10]:modulation	[19, 20]:[12, 13]:generalization	[21]:[14, 15, 16, 17]:modulation	[23]:[23]:literal
+[10]:[12, 13, 14]:particularization	[20]:[27, 28]:literal
+[5]:[6]:literal	[10, 11]:[14, 15]:transposition	[14]:[20]:modulation	[19]:[28]:literal	[20]:[26, 27]:literal	[27, 28]:[37]:literal	[38, 39]:[41]:generalization	[42, 43, 44, 45]:[47, 48, 49, 50, 51, 52]:transposition
+[5, 6]:[8, 9, 10]:modulation_transposition	[18]:[20, 21]:literal
+[1]:[3]:literal	[3, 4]:[1, 2]:transposition
+[1, 2, 3]:[1, 2, 3, 4, 5]:transposition	[9]:[13]:literal
+[8]:[8]:literal	[9]:[9, 10]:modulation	[14, 15]:[16, 17]:modulation	[19]:[24]:equivalence
+[4, 5]:[2, 3]:generalization	[15, 16]:[15]:modulation	[31]:[40]:literal	[44]:[54]:literal
+[8, 9, 10, 11, 12]:[15, 16]:modulation_transposition	[13, 14]:[18, 19]:literal
+[17, 19, 20, 21]:[16, 17]:literal	[22]:[19, 20]:particularization
+[15]:[14]:particularization	[18]:[21, 22]:literal
+[33]:[38, 39]:literal	[45]:[50, 51]:lexical_shift	[46, 47]:[52, 53, 54, 55]:transposition	[58]:[68, 69]:transposition
+[6]:[5]:literal	[9, 10, 11, 12]:[10, 11, 12, 13, 14, 15]:modulation
+[29]:[38]:literal	[42]:[53, 54]:particularization
+[1]:[1]:literal	[9, 10]:[11, 12, 13]:transposition
+[1, 2, 3]:[1, 2, 3, 4]:equivalence	[4, 5]:[8]:generalization
+[9]:[11, 12]:literal	[16, 17]:[19]:modulation
+[1, 3, 4]:[5, 6, 7, 8, 9]:modulation	[2]:[1, 2, 3, 4]:literal	[5]:[10, 11]:literal	[6, 7, 8]:[12, 13, 14]:modulation_transposition
+[7, 8]:[7]:literal	[18]:[16]:lexical_shift	[19]:[17, 18]:modulation	[23, 24, 25, 26]:[23, 24]:modulation_transposition	[32]:[31]:literal	[33, 34, 35]:[32, 33]:generalization
+[2, 3]:[1, 2]:literal	[4, 5, 6]:[3, 4]:modulation_transposition	[7, 8, 10]:[6, 7]:modulation	[9]:[5]:literal	[19, 20, 22, 23, 24]:[18, 19, 20, 21, 22]:modulation	[21]:[16, 17]:literal	[29]:[29, 31, 32]:literal	[33, 34, 35, 36, 37, 38, 39]:[30, 35, 36]:modulation_transposition
+[6]:[6]:literal	[7, 8, 9, 10]:[9, 10, 11]:modulation_transposition	[16, 17, 18, 19]:[17]:modulation_transposition	[20]:[18]:literal
+[2]:[2]:literal	[4, 5]:[4, 5, 6]:modulation
+[6, 7, 8]:[8, 9]:modulation_transposition	[18, 19]:[22]:modulation_transposition	[49]:[46]:literal	[55, 56, 57]:[50, 51, 52, 53, 54]:equivalence
+[7]:[7]:literal	[25, 26, 27]:[29, 30]:modulation_transposition
+[10]:[5, 6]:literal	[11]:[7]:modulation	[13, 14, 15, 16]:[11, 12, 13, 14]:literal	[18]:[16]:modulation	[19]:[17, 18]:literal	[20]:[19, 20]:literal	[21]:[21]:modulation	[25]:[26]:modulation	[26]:[27, 28]:modulation	[27]:[30]:modulation	[33]:[37, 38]:literal	[34]:[39, 40]:literal
+[1, 2, 3, 4, 5, 6]:[1, 2, 3, 4, 5, 6, 7, 8]:equivalence	[7, 8, 9, 10, 11]:[9, 10, 11, 12, 13]:modulation_transposition
+[8, 9]:[3, 4, 5, 6]:modulation_transposition	[10]:[2]:literal
+[3, 5]:[6, 7, 8, 9]:modulation_transposition	[4]:[1, 2, 3, 4]:literal
+[2, 13, 14]:[3, 4, 5]:modulation_transposition	[15]:[2]:literal
+[1, 2, 3, 4, 5, 6]:[1, 2, 3, 4, 5]:modulation_transposition	[9, 10]:[13]:generalization	[11]:[14]:literal	[13]:[15]:lexical_shift	[14]:[17]:literal	[15]:[19]:literal	[16, 17, 18]:[20, 21]:modulation_transposition	[21, 22]:[24, 25, 26]:modulation
+[3, 4, 5, 6]:[1, 2]:modulation_transposition	[8]:[4]:modulation	[9]:[5, 6]:literal	[10, 11, 12]:[8, 9, 10]:literal
+[1]:[1]:modulation	[2]:[2, 3]:literal	[3, 4]:[4, 5]:generalization	[6]:[7]:modulation	[7, 8]:[8, 10]:literal	[9]:[9, 11, 12]:literal
+[1, 2, 3, 4]:[1, 2, 3, 4]:modulation_transposition	[7, 8]:[7]:literal
+[3, 4]:[1, 2]:modulation_transposition	[6, 7]:[6]:modulation	[8]:[4, 5]:literal	[24, 25, 26]:[26, 27, 28, 29]:literal	[29, 30]:[32, 35]:literal	[33]:[37, 38]:modulation
+[6]:[4, 5]:literal	[7]:[3]:literal	[10, 11, 12, 13, 14]:[9, 10]:modulation	[21, 22, 23, 24, 25]:[18, 19]:modulation
+[4, 5]:[6, 7, 8]:literal	[6, 7]:[9, 10]:generalization
+[2, 3, 4]:[4]:lexical_shift	[5]:[5]:particularization
+[1]:[1]:literal	[2]:[2, 3]:modulation	[16, 17]:[15]:equivalence	[18]:[13]:modulation
+[2, 3]:[2, 3, 4, 6]:modulation_transposition	[14]:[17]:literal
+[14]:[17]:literal	[18]:[21, 22]:particularization	[34, 35, 36]:[40, 41, 42, 43]:modulation_transposition	[40, 41]:[45, 46]:literal
+[8, 9, 10, 11]:[9, 10, 11, 12]:equivalence	[14]:[15]:literal	[15, 16, 17, 18]:[16, 17]:modulation_transposition	[20, 21]:[19, 20, 21, 22, 23]:equivalence	[24, 25, 26, 27]:[25, 26, 27, 28]:equivalence	[29, 30, 31, 32, 33, 34]:[30, 31, 32, 33]:modulation_transposition	[36, 37, 38, 39]:[35, 36, 37]:modulation_transposition	[41, 42, 43]:[39, 40, 41, 42, 43, 44]:modulation_transposition
+[3, 4]:[1, 2, 3]:modulation_transposition	[11, 12]:[10, 12, 18, 19, 20]:modulation_transposition	[13]:[13]:literal	[14]:[14]:literal
+[1]:[1, 2]:modulation	[4]:[8]:literal
+[4, 5, 6, 7, 8, 9]:[4, 5, 6, 7, 8, 9]:modulation_transposition	[17]:[17]:literal	[19]:[19, 20]:modulation	[41, 42, 43]:[42, 43]:modulation	[62]:[64]:literal	[64]:[66, 67, 68]:literal
+[2, 3]:[1, 2]:modulation_transposition	[8]:[8]:literal	[10, 11]:[10, 11, 12, 13, 14]:modulation_transposition	[14, 15]:[19]:literal
+[4]:[5]:equivalence	[5]:[8]:literal	[6, 7, 8]:[9, 10, 11, 12, 13, 14, 15]:modulation_transposition	[10, 11]:[16, 17]:modulation_transposition	[15, 16]:[20, 21, 22]:modulation	[18, 19]:[26]:literal
+[6]:[7, 8]:modulation_transposition	[7, 8, 9]:[4, 5, 6]:modulation	[12]:[13, 14]:literal	[20]:[22, 23, 24]:literal
+[1]:[1]:literal	[4, 5, 6, 7]:[3]:modulation_transposition	[9]:[6]:lexical_shift	[10, 11, 12]:[7]:particularization	[14, 15, 16, 17]:[9, 10, 11]:figurative	[32, 33]:[28, 30]:literal
+[11, 12, 13]:[11, 12, 13]:modulation_transposition	[14]:[14, 15, 16, 17]:literal	[16]:[19]:literal	[17, 18]:[20, 21]:particularization
+[5]:[3, 4, 5]:literal	[6, 7]:[6, 7, 8]:particularization	[9]:[10]:literal	[10]:[11, 12, 13]:modulation_transposition	[12]:[15]:literal	[14, 15]:[18, 19]:transposition

@@ -1,0 +1,318 @@
+814
+I want to start out by asking you to think back to when you were a kid , playing with blocks . 
+je vais commencer par vous demander de vous souvenir quand vous étiez enfant , et que vous jouiez avec des cubes . 
+815
+as you figured out how to reach out and grasp , pick them up and move them around , you were actually learning how to think and solve problems by understanding and manipulating spatial relationships . 
+tandis que vous découvriez comment tendre le bras et les saisir , les soulever et les déplacer , vous appreniez en fait à réfléchir et à résoudre des problèmes en comprenant et en manipulant des relations dans l' espace . 
+816
+spatial reasoning is deeply connected to how we understand a lot of the world around us . 
+le raisonnement dans l' espace est profondément lié à notre façon de comprendre une grande partie du monde qui nous entoure . 
+817
+so , as a computer scientist inspired by this utility of our interactions with physical objects -- along with my adviser Pattie , and my collaborator Jeevan Kalanithi -- I started to wonder -- what if when we used a computer , instead of having this one mouse cursor that was a like a digital fingertip moving around a flat desktop , what if we could reach in with both hands and grasp information physically , arranging it the way we wanted ? 
+donc , en tant qu' informaticien inspiré par cette utilité de nos interactions avec les objets physiques , avec l' aide de ma conseillère Pattie , et de mon collaborateur Jeevan Kalanithi , j' ai commencé à me demander ... qu' adviendrait -il si pour utiliser un ordinateur , au lieu d' avoir ce curseur de souris qui sert de doigt numérique qui se promène sur un bureau plat , on pouvait tendre les deux mains et saisir l' information physiquement , pour l' arranger de la manière qu' on veut ? 
+818
+this question was so compelling that we decided to explore the answer , by building Siftables . 
+cette question était tellement fascinante que nous avons décidé d' étudier la réponse , en fabriquant les Siftables . 
+819
+in a nutshell , a Siftable is an interactive computer the size of a cookie . 
+pour résumer , un Siftable est un ordinateur interactif de la taille d' un cookie . 
+820
+they 're able to be moved around by hand , they can sense each other , they can sense their motion , and they have a screen and a wireless radio . 
+on peut les déplacer à la main , ils peuvent se reconnaître entre eux , ils peuvent sentir leur mouvement , et ils sont équipés d' un écran et d' une radio sans fil . 
+821
+most importantly , they 're physical , so like the blocks , you can move them just by reaching out and grasping . 
+plus important encore , ce sont des objets physiques , donc tout comme les cubes , on peut les déplacer simplement en tendant le bras et en les prenant en main . 
+822
+and Siftables are an example of a new ecosystem of tools for manipulating digital information . 
+et les Siftables sont un exemple de nouvel écosystème d' outils pour manipuler l' information numérique . 
+823
+and as these tools become more physical , more aware of their motion , aware of each other , and aware of the nuance of how we move them , we can start to explore some new and fun interaction styles . 
+à mesure que ces outils deviennent de plus en plus physiques , davantage conscients de leur mouvement , de la présence des autres , et conscients des nuances dans notre façon de les déplacer , on peut commencer à étudier de nouveaux styles d' interactions amusants . 
+824
+so , I 'm going to start with some simple examples . 
+donc je vais commencer par quelques exemples simples . 
+825
+this Siftable is configured to show video , and if I tilt it in one direction , it 'll roll the video this way ; if I tilt it the other way it rolls it backwards . 
+ce Siftable est configuré pour montrer de la vidéo , et si je l' incline dans une direction , il fera avancer la vidéo dans ce sens , si je l' incline dans l' autre sens la vidéo reviendra en arrière . 
+826
+and these interactive portraits are aware of each other . 
+et ces portraits interactifs sont conscients de la présence des autres . 
+827
+so if I put them next to each other , they get interested . 
+donc si je les mets les uns à côté des autres , ils s' y intéressent . 
+828
+if they get surrounded , they notice that too , they might get a little flustered . 
+s' ils se retrouvent encerclés , ils s' en rendent compte aussi , et ils peuvent devenir un peu agités . 
+829
+and they can also sense their motion and tilt . 
+ils peuvent aussi sentir leur mouvement et leur inclinaison . 
+830
+one of the interesting implications on interaction , we started to realize , was that we could use everyday gestures on data , like pouring a color the way we might pour a liquid . 
+nous avons commencé à réaliser que l' une des implications intéressantes de l' interaction , c' était que l' on pouvait utiliser des gestes du quotidien avec les données , comme de verser une couleur de la même manière qu' on verserait un liquide . 
+831
+so in this case , we 've got three Siftables configured to be paint buckets and I can use them to pour color into that central one , where they get mixed . 
+donc dans ce cas , on a trois Siftables configurés en pots de peinture et je peux les utiliser pour verser des couleurs dans celui du milieu , où elles se mélangent . 
+832
+if we overshoot , we can pour a little bit back . 
+si on en met trop , on peut en enlever un petit peu . 
+833
+there are also some neat possibilities for education , like language , math and logic games where we want to give people the ability to try things quickly , and view the results immediately . 
+cela ouvre aussi de belles opportunités en ce qui concerne l' éducation , comme les langues , les mathématiques et les jeux de logique , où on veut donner aux gens la possibilité de faire des essais rapidement , et de constater les résultats immédiatement . 
+834
+so here I 'm -- This is a Fibonacci sequence that I 'm making with a simple equation program . 
+donc là je ... C' est une suite de Fibonacci que je fais avec un simple programme d' équation . 
+835
+here we have a word game that 's kind of like a mash-up between Scrabble and Boggle . 
+ici on a un jeu de lettres qui est une espèce de mélange entre le Scrabble et le Boggle . 
+836
+basically , in every round you get a randomly assigned letter on each Siftable , and as you try to make words it checks against a dictionary . 
+en gros , à chaque tour une lettre est attribuée aléatoirement sur chaque Siftable , et tandis que vous essayez de faire des mots , il vérifie dans un dictionnaire . 
+837
+then , after about 30 seconds , it reshuffles , and you have a new set of letters and new possibilities to try . 
+ensuite , au bout de 30 secondes , il mélange à nouveau , et on a un nouvel ensemble de lettres et de nouvelles possibilités à explorer . 
+838
+so these are some kids that came on a field trip to the Media Lab , and I managed to get them to try it out , and shoot a video . 
+voici des enfants qui sont venus au Media Lab pour une sortie scolaire , et j' ai réussi à leur faire essayer , sous l' œil de la caméra . 
+839
+they really loved it . 
+ils ont vraiment adoré . 
+840
+and , one of the interesting things about this kind of application is that you do n't have to give people many instructions . 
+de plus , l' un des aspects intéressants de ce genre d' application c' est qu' on n' a pas besoin de donner aux gens des tas d' instructions . 
+841
+all you have to say is , `` make words , '' and they know exactly what to do . 
+tout ce qu' on a à dire , c' est : " fais des mots " , et ils savent exactement quoi faire . 
+842
+so here 's another few people trying it out . 
+voici un autre groupe de gens en train de les essayer . 
+843
+that 's our youngest beta tester , down there on the right . 
+voilà notre plus jeune bêta testeur , en bas à droite . 
+844
+turns out , all he wanted to do was to stack the Siftables up . 
+en fait , tout ce qui l' intéressait c' était d' empiler les Siftables . 
+845
+so to him , they were just blocks . 
+pour lui , ce n' était que des cubes . 
+846
+now , this is an interactive cartoon application . 
+là , on a une application de dessin animé interactif . 
+847
+and we wanted to build a learning tool for language learners . 
+nous voulions construire un outil d' apprentissage pour ceux qui apprennent des langues . 
+848
+and this is Felix , actually . 
+eh bien voilà Félix . 
+849
+and he can bring new characters into the scene , just by lifting the Siftables off the table that have that character shown on them . 
+il peut amener de nouveaux personnages dans la scène , simplement en soulevant de la table les Siftables présentant ce personnage . 
+850
+here , he 's bringing the sun out . 
+là , il fait lever le Soleil . 
+851
+the sun is rising . 
+vidéo : le Soleil se lève . 
+852
+now he 's brought a tractor into the scene . 
+là il a ajouté un tracteur à la scène . 
+853
+the orange tractor . 
+vidéo : le tracteur orange . 
+854
+good job ! Yeah ! 
+bien joué ! ouais ! 
+855
+so by shaking the Siftables and putting them next to each other he can make the characters interact -- Woof ! 
+donc en secouant les Siftables et en les plaçant les uns à côté des autres il peut faire interagir les personnages ... Vidéo : ouaf ! 
+856
+inventing his own narrative . 
+et inventer sa propre histoire . 
+857
+hello ! 
+vidéo : salut ! 
+858
+it 's an open-ended story , and he gets to decide how it unfolds . 
+c' est une histoire avec une fin ouverte , à lui de choisir le dénouement . 
+859
+fly away , cat . 
+vidéo : enfuis -toi , le chat . 
+860
+so , the last example I have time to show you today is a music sequencing and live performance tool that we 've built recently , in which Siftables act as sounds like lead , bass and drums . 
+le dernier exemple que j' ai le temps de vous montrer aujourd'hui est un outil d' arrangement musical et de performance en direct que nous avons construit récemment , dans lequel les Siftables jouent le rôle de sons comme la voix principale , la basse et la batterie . 
+861
+each of these has four different variations , you get to choose which one you want to use . 
+chacun d' entre eux possède quatre variations , on peut choisir celle qu' on veut utiliser . 
+862
+and you can inject these sounds into a sequence that you can assemble into the pattern that you want . 
+et on peut intégrer ces sons dans une séquence que l' on peut assembler au sein du schéma qu' on veut . 
+863
+and you inject it by just bumping up the sound Siftable against a sequence Siftable . 
+et on l' intègre simplement en cognant le Siftable de son contre un Siftable de séquence . 
+864
+there are effects that you can control live , like reverb and filter . 
+il y a des effets que l' on peut contrôler en direct , comme la réverbération et le filtre . 
+865
+you attach it to a particular sound and then tilt to adjust it . 
+on l' attache à un son en particulier et ensuite on incline pour l' ajuster . 
+866
+and then , overall effects like tempo and volume that apply to the entire sequence . 
+en plus , il y a des effets généraux comme le tempo et le volume qui s' appliquent à toute la séquence . 
+867
+so let 's have a look . 
+jetons un œil . 
+868
+we 'll start by putting a lead into two sequence Siftables , arrange them into a series , extend it , add a little more lead . 
+vidéo : on va commencer en mettant une voix principale dans deux Siftables de séquence , on les met à la suite , on allonge la suite avec un peu plus de voix principale . 
+869
+now I put a bass line in . 
+là j' ajoute une ligne de basse . 
+870
+now I 'll put some percussion in . 
+vidéo : maintenant je vais ajouter des percussions . 
+871
+and now I 'll attach the filter to the drums , so I can control the effect live . 
+vidéo : et maintenant je vais attacher le filtre à la batterie , pour pouvoir contrôler les effets en direct . 
+872
+I can speed up the whole sequence by tilting the tempo one way or the other . 
+vidéo : je peux accélérer toute la séquence en inclinant le tempo dans un sens ou dans l' autre . 
+873
+and now I 'll attach the filter to the bass for some more expression . 
+vidéo : et maintenant je vais attacher le filtre à la basse , pour plus d' expressivité . 
+874
+I can rearrange the sequence while it plays . 
+vidéo : je peux réorganiser la séquence pendant la lecture . 
+875
+so I do n't have to plan it out in advance , but I can improvise , making it longer or shorter as I go . 
+je n' ai donc pas besoin de la planifier à l' avance , mais je peux improviser , je peux l' allonger ou la raccourcir en plein milieu . 
+876
+and now , finally , I can fade the whole sequence out using the volume Siftable , tilted to the left . 
+et enfin , je peux diminuer progressivement le volume de la séquence en utilisant le Siftable de volume , incliné sur la gauche . 
+877
+so , as you can see , my passion is for making new human-computer interfaces that are a better match to the ways our brains and bodies work . 
+donc , comme vous le voyez , ma passion est de créer de nouvelles interfaces entre humains et ordinateurs qui correspondent mieux à la façon dont fonctionnent notre cerveau et notre corps . 
+878
+and today , I had time to show you one point in this new design space , and a few of the possibilities that we 're working to bring out of the laboratory . 
+aujourd'hui , j' ai eu le temps de vous montrer un point de ce nouvel espace de conception , et quelques-unes des possibilités que nous cherchons à faire sortir du laboratoire . 
+879
+so the thought I want to leave you with is that we 're on the cusp of this new generation of tools for interacting with digital media that are going to bring information into our world on our terms . 
+la dernière pensée que je veux vous transmettre , c' est que cette nouvelle génération d' outils s' annonce pour interagir avec les médias numériques , qui apporteront l' information dans notre monde à notre manière . 
+880
+I look forward to talking with all of you . 
+j' ai hâte de discuter avec vous tous . 
+881
+one day , Los Angeles Times columnist Steve Lopez was walking along the streets of downtown Los Angeles when he heard beautiful music . 
+un jour , le chroniqueur du Los Angeles Times Steve Lopez se promenait dans les rues du centre-ville de Los Angeles quand il entendit une belle musique . 
+882
+and the source was a man , an African-American man , charming , rugged , homeless , playing a violin that only had two strings . 
+elle venait d' un homme , un afro-américain , charmant , en haillons , sans-abri , qui jouait sur un violon qui n' avait plus que deux cordes . 
+883
+and I 'm telling a story that many of you know , because Steve 's columns became the basis for a book , which was turned into a movie , with Robert Downey Jr. acting as Steve Lopez , and Jamie Foxx as Nathaniel Anthony Ayers , the Juilliard-trained double bassist whose promising career was cut short by a tragic affliction with paranoid schizophrenia . 
+cette histoire , beaucoup d' entre vous la connaissent , car les chroniques de Steve ont inspiré un livre , qui a été adapté à l' écran , avec Robert Downey Jr dans le rôle de Steve Lopez , et Jamie Fox dans celui de Nathaniel Ayers Anthony , le contrebassiste issu de l' École Juilliard dont la carrière prometteuse fut écourtée par une tragique schizophrénie paranoïde . 
+884
+Nathaniel dropped out of Juilliard , he suffered a complete breakdown , and 30 years later he was living homeless on the streets of Skid Row in downtown Los Angeles . 
+Nathaniel abandonna Julliard , subit une rupture totale , et 30 ans plus tard , il était sans-abri dans les rues de Skid Row , au centre-ville de Los Angeles . 
+885
+I encourage all of you to read Steve 's book or to watch the movie to understand not only the beautiful bond that formed between these two men , but how music helped shape that bond , and ultimately was instrumental -- if you 'll pardon the pun -- in helping Nathaniel get off the streets . 
+je vous encourage tous à lire le livre de Steve , ou à regarder le film , pour comprendre non seulement le lien merveilleux qui s' est créé entre ces deux hommes , mais aussi comment la musique a contribué à façonner ce lien , et a finalement été l' instrument , si vous me passez ce calembour , qui a aidé Nathaniel sortir de la rue . 
+886
+I met Mr. Ayers in 2008 , two years ago , at Walt Disney Concert Hall . 
+j' ai rencontré M. Ayers en 2008 , il y a deux ans , au Walt Disney Concert Hall . 
+887
+he had just heard a performance of Beethoven 's First and Fourth symphonies , and came backstage and introduced himself . 
+il venait tout juste d' écouter un concert des première et quatrième symphonies de Beethoven , il est venu en coulisses et s' est présenté . 
+888
+he was speaking in a very jovial and gregarious way about Yo-Yo Ma and Hillary Clinton and how the Dodgers were never going to make the World Series , all because of the treacherous first violin passage work in the last movement of Beethoven 's Fourth Symphony . 
+il parlait d' une manière très joviale et sociable de Yo-Yo Ma et d' Hillary Clinton , des raisons pour lesquelles les Dodgers ne gagneraient jamais les Séries Mondiales , à cause de la traîtrise des figurations du premier violon dans le dernier mouvement de la Quatrième Symphonie de Beethoven . 
+889
+and we got talking about music , and I got an email from Steve a few days later saying that Nathaniel was interested in a violin lesson with me . 
+et nous avons parlé musique . et j' ai reçu un courriel de Steve quelques jours plus tard me disant que Nathaniel aimerait que je lui donne un cours de violon . 
+890
+now , I should mention that Nathaniel refuses treatment because when he was treated it was with shock therapy and Thorazine and handcuffs , and that scar has stayed with him for his entire life . 
+maintenant , je devrais préciser que Nathaniel refuse de se soigner parce que quand il a été traité ce fut avec des électrochocs , de la Thorazine et des menottes , et que , toute sa vie , il a souffert de ce traumatisme . 
+891
+but as a result now , he is prone to these schizophrenic episodes , the worst of which can manifest themselves as him exploding and then disappearing for days , wandering the streets of Skid Row , exposed to its horrors , with the torment of his own mind unleashed upon him . 
+mais , maintenant , il en résulte qu' il est enclin à ces épisodes schizophréniques . dans les pires de leurs manifestations , il explose , et puis disparait pendant des jours , errant dans les rues de Skid Row , exposé à ses horreurs , les tourments de son esprit déchaînés sur lui . 
+892
+and Nathaniel was in such a state of agitation when we started our first lesson at Walt Disney Concert Hall -- he had a kind of manic glint in his eyes , he was lost . 
+et Nathanial était dans un tel état de agitation quand nous avons commencé notre première leçon au Walt Disney Concert Hall qu' il y avait une sorte de reflet maniaque dans ses yeux , il avait l' air perdu . 
+893
+and he was talking about invisible demons and smoke , and how someone was poisoning him in his sleep . 
+et il parlait de démons invisibles et de fumée , et comment quelqu'un l' empoisonnait dans son sommeil . 
+894
+and I was afraid , not for myself , but I was afraid that I was going to lose him , that he was going to sink into one of his states , and that I would ruin his relationship with the violin if I started talking about scales and arpeggios and other exciting forms of didactic violin pedagogy . 
+et j' ai eu peur , pas pour moi , mais j' ai eu peur de le perdre , qu' il se mette à sombrer dans l' une de ses crises , et que je ruine sa relation avec le violon si je commençais à parler de portées et d' arpèges et des autres formes intéressantes de la pédagogie didactique du violon . 
+895
+so , I just started playing . 
+alors , j' ai simplement commencé à jouer . 
+896
+and I played the first movement of the Beethoven Violin Concerto . 
+j' ai joué le premier mouvement du concerto pour violon de Beethoven . 
+897
+and as I played , I understood that there was a profound change occurring in Nathaniel 's eyes . 
+et comme je jouais , j' ai vu qu' un changement profond se produisait dans les yeux Nathaniel . 
+898
+it was as if he was in the grip of some invisible pharmaceutical , a chemical reaction , for which my playing the music was its catalyst . 
+c' était comme s' il était sous l' emprise d' un produit pharmaceutique invisible , une réaction chimique , dont la musique que je jouais était le catalyseur . 
+899
+and Nathaniel 's manic rage was transformed into understanding , a quiet curiosity and grace . 
+et la rage maniaque de Nathaniel s' est transformée en compréhension , en curiosité tranquille , et en grâce . 
+900
+and in a miracle , he lifted his own violin and he started playing , by ear , certain snippets of violin concertos which he then asked me to complete -- Mendelssohn , Tchaikovsky , Sibelius . 
+et comme par miracle , il a levé son propre violon , et il a commencé à jouer à l' oreille , des extraits de concertos pour violon qu' il m' a alors demandé de compléter , Mendelssohn , Tchaïkovski , Sibelius . 
+901
+and we started talking about music , from Bach to Beethoven and Brahms , Bruckner , all the B 's , from Bartók , all the way up to Esa-Pekka Salonen . 
+et nous avons commencé à parler de musique , de Bach à Beethoven , de Brahms , Bruckner , tous les B , de Bartók , jusqu'à Esa-Pekka Salonen . 
+902
+and I understood that he not only had an encyclopedic knowledge of music , but he related to this music at a personal level . 
+et j' ai compris que non seulement il avait une connaissance encyclopédique de la musique , mais qu' il avait un lien avec cette musique , à un niveau personnel . 
+903
+he spoke about it with the kind of passion and understanding that I share with my colleagues in the Los Angeles Philharmonic . 
+il en a parlé avec le genre de passion et de compréhension que je partage avec mes collègues de l' Orchestre Philharmonique de Los Angeles . 
+904
+and through playing music and talking about music , this man had transformed from the paranoid , disturbed man that had just come from walking the streets of downtown Los Angeles to the charming , erudite , brilliant , Juilliard-trained musician . 
+en jouant de la musique , et en parlant de musique , cet homme s' était transformé , de l' homme dérangé , paranoïaque , qui errait dans les rues du centre-ville de Los Angeles , en ce charmant , érudit , et brillant musicien issu de Juilliard . 
+905
+music is medicine . music changes us . 
+la musique est médecine . la musique nous change . 
+906
+and for Nathaniel , music is sanity . 
+et pour Nathaniel , la musique c' est la santé mentale . 
+907
+because music allows him to take his thoughts and delusions and shape them through his imagination and his creativity , into reality . 
+parce que la musique lui permet de prendre ses pensées et ses délires , et de les ramener grâce à son imagination et sa créativité , dans la réalité . 
+908
+and that is an escape from his tormented state . 
+et c' est une évasion de son état tourmenté . 
+909
+and I understood that this was the very essence of art . 
+et j' ai compris que c' était l' essence même de l' art . 
+910
+this was the very reason why we made music , that we take something that exists within all of us at our very fundamental core , our emotions , and through our artistic lens , through our creativity , we 're able to shape those emotions into reality . 
+c' est la raison pour laquelle nous avons créé la musique , pour prendre quelque chose qui existe en chacun de nous , au niveau le plus fondamental de notre être , de nos émotions , et grâce à notre prisme artistique , par notre créativité , nous sommes en mesure de façonner ces émotions dans la réalité . 
+911
+and the reality of that expression reaches all of us and moves us , inspires and unites us . 
+et la réalité de cette expression atteint chacun d' entre nous , et nous émeut , nous inspire et nous unit . 
+912
+and for Nathaniel , music brought him back into a fold of friends . 
+et en ce qui concerne Nathaniel , la musique l' a ramené dans parmi ses amis . 
+913
+the redemptive power of music brought him back into a family of musicians that understood him , that recognized his talents and respected him . 
+la puissance rédemptrice de la musique l' a ramené dans la famille des musiciens qui l' ont compris , ont reconnu ses talents et qui le respectaient . 
+914
+and I will always make music with Nathaniel , whether we 're at Walt Disney Concert Hall or on Skid Row , because he reminds me why I became a musician . 
+et je continuerai toujours à faire de la musique avec Nathaniel , que nous soyons au Walt Disney Concert Hall , ou sur Skid Row , parce qu' il me rappelle pourquoi je suis devenu musicien . 
+915
+thank you . 
+merci . 
+916
+bruno Giussani : thank you . thanks . 
+je vous remercie . merci . 
+917
+Robert Gupta . 
+Robert Gupta . 
+918
+Robert Gupta : I 'm going to play something that I shamelessly stole from cellists . 
+je veux jouer quelque chose que j' ai honteusement volé aux violoncellistes . 
+919
+so , please forgive me . 
+alors , s' il vous plaît pardonnez -moi . 

@@ -1,0 +1,303 @@
+153
+what I 'm going to show you first , as quickly as I can , is some foundational work , some new technology that we brought to Microsoft as part of an acquisition almost exactly a year ago . this is Seadragon , and it 's an environment in which you can either locally or remotely interact with vast amounts of visual data . 
+ce que je vais vous montrer en premier , aussi vite que possible , c' est un travail fondateur , une nouvelle technologie que nous avons apportée à Microsoft comme part d' une acquisition il y a presque exactement un an . voici Seadragon . et c' est un environnement dans lequel vous pouvez , localement ou à distance , interagir avec de grandes quantités de données visuelles . 
+154
+we 're looking at many , many gigabytes of digital photos here and kind of seamlessly and continuously zooming in , panning through the thing , rearranging it in any way we want . 
+on a ici devant les yeux beaucoup , beaucoup de gigabytes de photos numériques et on fait des zooms avant de manière continue et en quelque sorte fluide , on navigue dans le truc , on le réarrange de la manière qu' on veut . 
+155
+and it does n't matter how much information we 're looking at , how big these collections are or how big the images are . 
+et ce quelle que soit la quantité d' informations que l' on visionne , la taille de ces collections ou la taille des images . 
+156
+most of them are ordinary digital camera photos , but this one , for example , is a scan from the Library of Congress , and it 's in the 300 megapixel range . 
+la plupart sont des photos d' appareils numériques ordinaires , mais celle-ci , par exemple , est scannée à partir de la Bibliothèque du Congrès , et elle fait dans les 300 mégapixels . 
+157
+it does n't make any difference because the only thing that ought to limit the performance of a system like this one is the number of pixels on your screen at any given moment . it 's also very flexible architecture . 
+cela ne fait aucune différence parce que la seule chose qui devrait limiter les performances d' un système comme celui-ci , c' est le nombre de pixels sur votre écran à un instant " t " . c' est aussi une architecture très flexible . 
+158
+this is an entire book , so this is an example of non-image data . 
+voici un livre entier , un exemple de donnée qui n' est pas une image . 
+159
+this is `` bleak House '' by Dickens . every column is a chapter . 
+c' est Bleak House de Dickens . chaque colonne est un chapitre . 
+160
+to prove to you that it 's really text , and not an image , we can do something like so , to really show that this is a real representation of the text ; it 's not a picture . 
+pour vous prouver que c' est vraiment du texte , et pas une image , on peut faire quelque chose comme ça , pour bien montrer que c' est une véritable représentation du texte ; ce n' est pas une photo . 
+161
+maybe this is a kind of an artificial way to read an e-book . 
+c' est peut-être une manière un peu artificielle de lire un e-book . 
+162
+I would n't recommend it . 
+je ne vous le recommande pas . 
+163
+this is a more realistic case . this is an issue of The Guardian . 
+voilà un exemple plus réaliste . c' est un numéro du Guardian . 
+164
+every large image is the beginning of a section . 
+chaque grande image est le début d' une section . 
+165
+and this really gives you the joy and the good experience of reading the real paper version of a magazine or a newspaper , which is an inherently multi-scale kind of medium . 
+et cela vous donne véritablement la joie et l' expérience agréable de la lecture de la vraie version papier d' un magazine ou d' un journal , qui est un type de media multi-échelles par définition . 
+166
+we 've also done a little something with the corner of this particular issue of The Guardian . 
+nous avons également mis au point quelque chose avec le coin de ce numéro du Guardian en particulier . 
+167
+we 've made up a fake ad that 's very high resolution -- much higher than you 'd be able to get in an ordinary ad -- and we 've embedded extra content . 
+nous avons créé une fausse publicité en très haute résolution ... bien plus haute que ce que vous pourriez obtenir dans une publicité classique ... et nous avons inséré du contenu supplémentaire . 
+168
+if you want to see the features of this car , you can see it here . 
+si vous voulez voir les caractéristiques de cette voiture , on peut les voir ici . 
+169
+or other models , or even technical specifications . 
+ou d' autres modèles , ou même des spécifications techniques . 
+170
+and this really gets at some of these ideas about really doing away with those limits on screen real estate . 
+et on en arrive vraiment à certaines de ces idées pour vraiment se débarrasser de ces limites d' espace de l' écran . 
+171
+we hope that this means no more pop-ups and other kind of rubbish like that -- should n't be necessary . 
+on espère que cela signifie la fin des pop-ups et d' autres types de pollution du même genre ... ne devraient plus être nécessaires . 
+172
+of course , mapping is one of those really obvious applications for a technology like this . 
+bien entendu , la cartographie est l' une des applications évidentes pour une technologie comme celle-ci . 
+173
+and this one I really wo n't spend any time on , except to say that we have things to contribute to this field as well . 
+et sur celle-ci je vais passer très rapidement , si ce n' est pour dire qu' on a des choses pour contribuer à ce domaine également . 
+174
+but those are all the roads in the U.S. 
+ce sont toutes les routes des Etats-Unis 
+175
+superimposed on top of a NASA geospatial image . 
+superposées à une image géospatiale de la NASA . 
+176
+so let 's pull up , now , something else . 
+bon , maintenant , allons chercher autre chose . 
+177
+this is actually live on the Web now ; you can go check it out . 
+tout ça est en ce moment en ligne sur le Web , vous pouvez aller vérifier . 
+178
+this is a project called Photosynth , which really marries two different technologies . 
+c' est un projet appelé Photosynth , qui en réalité marie deux technologies différentes . 
+179
+one of them is Seadragon and the other is some very beautiful computer vision research done by Noah Snavely , a graduate student at the University of Washington , co-advised by Steve Seitz at U.W. 
+l' une d' entre elles est Seadragon et l' autre est issue d' une recherche magnifique sur la vision informatisée menée par Noah Snavely , un étudiant de 3 ème cycle à l' Université de Washington , co-dirigée par Steve Seitz à l' UW 
+180
+and Rick Szeliski at Microsoft Research . a very nice collaboration . 
+et Rick Szeliski de la recherche Microsoft . une très belle collaboration . 
+181
+and so this is live on the Web . it 's powered by Seadragon . 
+et donc c' est en ligne sur le Web . cela fonctionne avec la technologie Seadragon . 
+182
+you can see that when we kind of do these sorts of views , where we can dive through images and have this kind of multi-resolution experience . 
+on peut le voir quand on utilise ce genre de visualisations , où on peut plonger dans les images et avoir cette sorte d' expérience multi-résolutions . 
+183
+but the spatial arrangement of the images here is actually meaningful . 
+mais l' arrangement dans l' espace des images dans ce cas-là a en fait un sens . 
+184
+the computer vision algorithms have registered these images together so that they correspond to the real space in which these shots -- all taken near Grassi Lakes in the Canadian Rockies -- all these shots were taken . so you see elements here of stabilized slide-show or panoramic imaging , and these things have all been related spatially . 
+les algorithmes de vision informatisée ont enregistré ces images ensemble , afin qu' elles correspondent à l' espace réel dans lequel ces photos ont été prises . donc vous voyez des éléments ici de diaporama stabilisé ou d' imagerie panoramique , et toutes ces choses ont été reliées entre elles dans l' espace . 
+185
+I 'm not sure if I have time to show you any other environments . 
+je ne suis pas sûr d' avoir le temps de vous montrer d' autres environnements . 
+186
+there are some that are much more spatial . 
+certains sont beaucoup plus spatiaux . 
+187
+I would like to jump straight to one of Noah 's original data-sets -- and this is from an early prototype of Photosynth that we first got working in the summer -- to show you what I think is really the punch line behind this technology , the Photosynth technology . and it 's not necessarily so apparent from looking at the environments that we 've put up on the website . 
+j' aimerais sauter directement à l' un des premiers ensemble de données de Noah ( et cela vient d' un premier prototype de Photosynth que nous avons fait fonctionner pour la première fois cet été ) pour vous montrer ce qui d' après moi est vraiment le point fort de cette technologie , la technologie Photosynth . et ce n' est pas nécessairement si évident quand on regarde les environnements que nous avons mis en ligne sur le site web . 
+188
+we had to worry about the lawyers and so on . 
+on a dû se préoccuper des avocats et des trucs dans le genre . 
+189
+this is a reconstruction of Notre Dame Cathedral that was done entirely computationally from images scraped from Flickr . you just type Notre Dame into Flickr , and you get some pictures of guys in t-shirts , and of the campus and so on . and each of these orange cones represents an image that was discovered to belong to this model . 
+voici une reconstruction de la cathédrale Notre-Dame qui a été faite entièrement par calcul informatique à partir d' images récupérées sur Flickr . on tape juste Notre Dame dans Flickr , et on trouve des photos de types en t-shirts , du campus et ainsi de suite . et chacun des ces cônes oranges représente une image qui a été identifiée comme appartenant à ce modèle . 
+190
+and so these are all Flickr images , and they 've all been related spatially in this way . 
+et donc ce sont toutes des images Flickr , et elles ont toutes été reliées entre elles dans l' espace de cette manière . 
+191
+and we can just navigate in this very simple way . 
+et on peut naviguer dedans très simplement de cette manière . 
+192
+you know , I never thought that I 'd end up working at Microsoft . 
+vous savez , je n' aurais jamais cru que je finirais par travailler chez Microsoft . 
+193
+it 's very gratifying to have this kind of reception here . 
+c' est très gratifiant d' être reçu ici de cette manière . 
+194
+I guess you can see this is lots of different types of cameras : it 's everything from cell phone cameras to professional SLRs , quite a large number of them , stitched together in this environment . 
+je pense que vous pouvez voir qu' il s' agit de beaucoup de types d' appareils photos différents : il y a de tout , des appareils photo de téléphone portable aux reflex mono-objectifs de professionnels , un assez grand nombre de photos , cousues ensemble dans cet environnement . 
+195
+and if I can , I 'll find some of the sort of weird ones . 
+et si j' y arrive , je vais en trouver quelques-unes un peu étranges . 
+196
+so many of them are occluded by faces , and so on . 
+beaucoup d' entre elles sont occultées par des visages , et ainsi de suite . 
+197
+somewhere in here there are actually a series of photographs -- here we go . 
+quelque part par là il y a même une série de photographies ... nous y voilà . 
+198
+this is actually a poster of Notre Dame that registered correctly . 
+il s' agit en fait d' un poster de Notre Dame qui a été enregistré comme correct . 
+199
+we can dive in from the poster to a physical view of this environment . 
+on peut plonger depuis le poster dans une vue physique de l' environnement . 
+200
+what the point here really is is that we can do things with the social environment . this is now taking data from everybody -- from the entire collective memory of , visually , of what the Earth looks like -- and link all of that together . 
+le vrai but de tout ça , c' est qu' on peut faire des choses avec l' environnement social . on prend maintenant les données de tout le monde ... de l' ensemble de la mémoire collective de ce à quoi ressemble la Terre , visuellement ... et on relie tout ça ensemble . 
+201
+all of those photos become linked together , and they make something emergent that 's greater than the sum of the parts . 
+toutes ces photos deviennent liées entre elles , et elles font émerger quelque chose de plus grand que la somme des parties . 
+202
+you have a model that emerges of the entire Earth . 
+il y a un modèle de la Terre entière qui émerge . 
+203
+think of this as the long tail to Stephen Lawler 's Virtual Earth work . 
+voyez ça comme la longue traîne du travail de Stephen Lawler sur la Terre Virtuelle . 
+204
+and this is something that grows in complexity as people use it , and whose benefits become greater to the users as they use it . 
+et c' est quelque chose qui devient de plus en plus complexe à mesure que les gens l' utilisent , et dont les bénéfices s' accroissent pour les utilisateurs à mesure qu' ils l' utilisent . 
+205
+their own photos are getting tagged with meta-data that somebody else entered . 
+leurs propres photos sont marquées avec des méta-données que quelqu'un d' autre a entrées . 
+206
+if somebody bothered to tag all of these saints and say who they all are , then my photo of Notre Dame Cathedral suddenly gets enriched with all of that data , and I can use it as an entry point to dive into that space , into that meta-verse , using everybody else 's photos , and do a kind of a cross-modal and cross-user social experience that way . 
+si quelqu'un s' embêtait à marquer tous ces saints et à donner tous leurs noms , ma photo de la cathédrale Notre Dame serait enrichie d' un coup de toutes ces données , et je pourrais l' utiliser comme point d' entrée pour plonger dans cet espace , dans ce méta-verse , en utilisant les photos de tout le monde , pour faire une sorte d' expérience sociale trans-modale et trans-utilisateurs de cette manière . 
+207
+and of course , a by-product of all of that is immensely rich virtual models of every interesting part of the Earth , collected not just from overhead flights and from satellite images and so on , but from the collective memory . 
+et bien sûr , un sous-produit de tout ça , ce sont des modèles virtuels immensément riches de tous les coins intéressants la Terre , récoltés pas simplement par des vols en altitude et par des images satellite et autres , mais par la mémoire collective . 
+208
+thank you so much . 
+merci beaucoup . 
+209
+do I understand this right ? that what your software is going to allow , is that at some point , really within the next few years , all the pictures that are shared by anyone across the world are going to basically link together ? 
+est -ce que je comprends bien ? que ce que votre logiciel va permettre , c' est qu' à un certain moment , vraiment dans les quelques années à venir , toutes les photos qui sont partagées par quiconque dans le monde seront en gros liées entre elles ? 
+210
+yes . what this is really doing is discovering . 
+oui . ce que le logiciel fait , c' est découvrir . 
+211
+it 's creating hyperlinks , if you will , between images . 
+il crée des hyperliens , si vous voulez , entre les images . 
+212
+and it 's doing that based on the content inside the images . 
+et il le fait en se fondant sur le contenu des images . 
+213
+and that gets really exciting when you think about the richness of the semantic information that a lot of those images have . 
+et ça devient vraiment passionnant quand vous songez à la richesse de l' information sémantique que bon nombre de ces images possèdent . 
+214
+like when you do a web search for images , you type in phrases , and the text on the web page is carrying a lot of information about what that picture is of . 
+par exemple quand on fait une recherche web sur des images , on tape des phrases , et le texte de la page web contient beaucoup d' informations à propos du sujet de cette photo . 
+215
+now , what if that picture links to all of your pictures ? 
+maintenant , que se passe -t-il si cette photo est liée à toutes vos photos ? 
+216
+then the amount of semantic interconnection and the amount of richness that comes out of that is really huge . it 's a classic network effect . 
+dans ce cas la quantité d' interconnexions sémantiques et la quantité de richesse qui en ressort est vraiment immense . c' est un effet de réseau classique . 
+217
+blaise , that is truly incredible . congratulations . 
+blaise , c' est vraiment incroyable . félicitations . 
+218
+thanks so much . 
+merci beaucoup . 
+517
+last year at TED I gave an introduction to the LHC . 
+l' année dernière j' ai presenté le LHC 
+518
+and I promised to come back and give you an update on how that machine worked . 
+et j' ai promis de revenir afin de vous mettre au courant de quelle façon cette machine fonctionne 
+519
+so this is it . and for those of you that were n't there , the LHC is the largest scientific experiment ever attempted -- 27 kilometers in circumference . 
+alors le voici . et pour ceux qui n' y étaient pas , le LHC est le plus grand projet scientifique jamais réalisé . il fait 27 kilomètres de circonférence . 
+520
+its job is to recreate the conditions that were present less than a billionth of a second after the universe began , up to 600 million times a second . 
+son travail consiste à recréer les conditions qui étaient présentes moins d' un milliardième de seconde après la naissance de l' univers jusqu'à 600 millions de fois par seconde 
+521
+it 's nothing if not ambitious . 
+c' est véritablement ambitieux . 
+522
+this is the machine below Geneva . 
+voici la machine en dessous de Genève . 
+523
+we take the pictures of those mini-Big Bangs inside detectors . 
+nous prenons des photos de ces minis-Big Bangs qui sont à l' intérieur des détecteurs . 
+524
+this is the one I work on . it 's called the ATLAS detector -- 44 meters wide , 22 meters in diameter . 
+voici celui sur lequel je travaille . il s' appelle le détecteur ATLAS 44 mètres de large et 22 mètres de diamètre . 
+525
+spectacular picture here of ATLAS under construction so you can see the scale . 
+voici une image spectaculaire d' ATLAS en construction pour que vous puissiez voir l' échelle . 
+526
+on the 10th of September last year we turned the machine on for the first time . 
+le 10 Septembre de l' année dernière nous avons allumé la machine pour la première fois 
+527
+and this picture was taken by ATLAS . 
+et cette image a été prise par ATLAS . 
+528
+it caused immense celebration in the control room . 
+elle a provoqué une immense fête dans la salle de contrôle 
+529
+it 's a picture of the first beam particle going all the way around the LHC , colliding with a piece of the LHC deliberately , and showering particles into the detector . 
+c' est une photo du premier faisceau de particules qui a effectué un tour complet de l' accélérateur , est entré en collision avec une part du LHC , délibérément , et a bombardé des particules dans le détecteur . 
+530
+in other words , when we saw that picture on September 10th we knew the machine worked , which is a great triumph . 
+autrement dit , quand nous avons vu cette image le 10 Septembre nous avons su que la machine fonctionnait , ce qui est une grande victoire 
+531
+I do n't know whether this got the biggest cheer , or this , when someone went onto Google and saw the front page was like that . 
+je ne sais pas si ceci a été reçu avec d' aussi grandes acclamations que ceci : quand quelqu'un accédait à Google et voyait la page d' accueil comme ça . 
+532
+it means we made cultural impact as well as scientific impact . 
+ça veut dire que nous avons fait un impact culturel autant qu' un impact scientifique . 
+533
+about a week later we had a problem with the machine , related actually to these bits of wire here -- these gold wires . 
+après environ une semaine , nous avons eu un problème avec la machine qui était en fait lié à ces morceaux de fils -- ces fils d' or 
+534
+those wires carry 13 thousand amps when the machine is working in full power . 
+ces fils transportent treize mille ampères quand la machine marche à pleine puissance . 
+535
+now the engineers amongst you will look at them and say , `` no they do n't . they 're small wires . '' 
+bon , les ingénieurs parmi vous , en les regardant , diront " ça n' est pas le cas . ils sont trop petits " 
+536
+they can do that because when they are very cold they are what 's called superconducting wire . 
+ils peuvent faire cela parce que lorsqu' ils sont très froids ils deviennent ce qu' on appelle des fils superconducteurs 
+537
+so at minus 271 degrees , colder than the space between the stars , those wires can take that current . 
+alors , quand il fait moins 271 degrés , ce qui est plus froid que l' espace entre les étoiles , ces fils d' or peuvent propager ce courant . 
+538
+in one of the joints between over 9,000 magnets in LHC , there was a manufacturing defect . 
+dans une de ces jointures , entre les plus de neuf milles aimants du LHC , il y avait un défaut industriel . 
+539
+so the wire heated up slightly , and its 13,000 amps suddenly encountered electrical resistance . 
+alors le fil s' est légèrement échauffé et ces 13 mille ampères ont rencontré soudainement de la résistance electrique . 
+540
+this was the result . 
+voici le résultat . 
+541
+now that 's more impressive when you consider those magnets weigh over 20 tons , and they moved about a foot . 
+cela est encore plus impressionnant quand on considère que ces aimants pèsent plus de vingt tonnes et qu' ils se sont déplacés d' une trentaine de centimètres . 
+542
+so we damaged about 50 of the magnets . 
+nous avons endommagé à peu près 50 de ces aimants . 
+543
+we had to take them out , which we did . 
+il fallait les sortir , ce que nous avons fait . 
+544
+we reconditioned them all , fixed them . 
+nous les avons tous rénovés et réparés . 
+545
+they 're all on their way back underground now . 
+maintenant , ils sont tous de retour sous terre 
+546
+by the end of March the LHC will be intact again . 
+avant la fin Mars , le LHC sera à nouveau intact 
+547
+we will switch it on , and we expect to take data in June or July , and continue with our quest to find out what the building blocks of the universe are . 
+nous l' allumerons et nous comptons prendre des données en juin ou juillet et continuer avec notre quête de découvrir quels sont les composants de l' univers 
+548
+now of course , in a way those accidents reignite the debate about the value of science and engineering at the edge . it 's easy to refute . 
+bon , naturellement , dans un sens ces accidents ont déclenché un débat à propos de la valeur de la science et de l' ingénierie avant-garde . c' est facile à réfuter . 
+549
+I think that the fact that it 's so difficult , the fact that we 're overreaching , is the value of things like the LHC . 
+je pense que le fait que ce soit si difficile , le fait que nous voulions trop en faire , c' est cela la valeur des choses comme le LHC . 
+550
+I will leave the final word to an English scientist , Humphrey Davy , who , I suspect , when defending his protege 's useless experiments -- his protege was Michael Faraday -- said this , `` nothing is so dangerous to the progress of the human mind than to assume that our views of science are ultimate , that there are no mysteries in nature , that our triumphs are complete , and that there are no new worlds to conquer . '' 
+je laisse le dernier mot à un scientifique anglais , Humphrey Davy , qui , je soupçonne , en défendant les expériences " inutiles " de son protégé , son protégé étant Michael Faraday , a dit : " rien n' est aussi dangereux au progrès de l' esprit humain que d' assumer que nos opinions sur la science sont finales , qu' il ne reste plus de mystères dans la nature , que nos triomphes sont complets , et que il n' y a pas de nouveaux mondes à conquérir . " 
+551
+thank you . 
+merci . 

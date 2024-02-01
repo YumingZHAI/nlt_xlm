@@ -1,0 +1,11 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+bindir=${exec_prefix}/bin
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: KyTea
+Description: KyTea is a general toolkit developed for analyzing text.
+Version: 0.4.7
+Cflags: -I${includedir}
+Libs: -L${libdir} -lkytea

@@ -1,0 +1,173 @@
+somewhere in here there are actually a series of photographs -- here we go .
+this is actually a poster of notre dame that registered correctly .
+what the point here really is is that we can do things with the social environment . this is now taking data from everybody -- from the entire collective memory of , visually , of what the earth looks like -- and link all of that together .
+all of those photos become linked together , and they make something emergent that 's greater than the sum of the parts .
+you have a model that emerges of the entire earth .
+think of this as the long tail to stephen lawler 's virtual earth work .
+and this is something that grows in complexity as people use it , and whose benefits become greater to the users as they use it .
+their own photos are getting tagged with meta-data that somebody else entered .
+if somebody bothered to tag all of these saints and say who they all are , then my photo of notre dame cathedral suddenly gets enriched with all of that data , and i can use it as an entry point to dive into that space , into that meta-verse , using everybody else 's photos , and do a kind of a cross-modal and cross-user social experience that way .
+and of course , a by-product of all of that is immensely rich virtual models of every interesting part of the earth , collected not just from overhead flights and from satellite images and so on , but from the collective memory .
+thank you so much .
+do i understand this right ? that what your software is going to allow , is that at some point , really within the next few years , all the pictures that are shared by anyone across the world are going to basically link together ?
+yes . what this is really doing is discovering .
+it 's creating hyperlinks , if you will , between images .
+and it 's doing that based on the content inside the images .
+and that gets really exciting when you think about the richness of the semantic information that a lot of those images have .
+like when you do a web search for images , you type in phrases , and the text on the web page is carrying a lot of information about what that picture is of .
+now , what if that picture links to all of your pictures ?
+then the amount of semantic interconnection and the amount of richness that comes out of that is really huge . it 's a classic network effect .
+blaise , that is truly incredible . congratulations .
+thanks so much .
+last year at ted i gave an introduction to the lhc .
+and i promised to come back and give you an update on how that machine worked .
+so this is it . and for those of you that were n't there , the lhc is the largest scientific experiment ever attempted -- 27 kilometers in circumference .
+its job is to recreate the conditions that were present less than a billionth of a second after the universe began , up to 600 million times a second .
+it 's nothing if not ambitious .
+this is the machine below geneva .
+we take the pictures of those mini-big bangs inside detectors .
+this is the one i work on . it 's called the atlas detector -- 44 meters wide , 22 meters in diameter .
+spectacular picture here of atlas under construction so you can see the scale .
+on the 10th of september last year we turned the machine on for the first time .
+and this picture was taken by atlas .
+it caused immense celebration in the control room .
+it 's a picture of the first beam particle going all the way around the lhc , colliding with a piece of the lhc deliberately , and showering particles into the detector .
+in other words , when we saw that picture on september 10th we knew the machine worked , which is a great triumph .
+i do n't know whether this got the biggest cheer , or this , when someone went onto google and saw the front page was like that .
+it means we made cultural impact as well as scientific impact .
+about a week later we had a problem with the machine , related actually to these bits of wire here -- these gold wires .
+those wires carry 13 thousand amps when the machine is working in full power .
+now the engineers amongst you will look at them and say , `` no they do n't . they 're small wires . ''
+they can do that because when they are very cold they are what 's called superconducting wire .
+so at minus 271 degrees , colder than the space between the stars , those wires can take that current .
+in one of the joints between over 9,000 magnets in lhc , there was a manufacturing defect .
+so the wire heated up slightly , and its 13,000 amps suddenly encountered electrical resistance .
+this was the result .
+now that 's more impressive when you consider those magnets weigh over 20 tons , and they moved about a foot .
+so we damaged about 50 of the magnets .
+we had to take them out , which we did .
+we reconditioned them all , fixed them .
+they 're all on their way back underground now .
+by the end of march the lhc will be intact again .
+we will switch it on , and we expect to take data in june or july , and continue with our quest to find out what the building blocks of the universe are .
+now of course , in a way those accidents reignite the debate about the value of science and engineering at the edge . it 's easy to refute .
+i think that the fact that it 's so difficult , the fact that we 're overreaching , is the value of things like the lhc .
+i will leave the final word to an english scientist , humphrey davy , who , i suspect , when defending his protege 's useless experiments -- his protege was michael faraday -- said this , `` nothing is so dangerous to the progress of the human mind than to assume that our views of science are ultimate , that there are no mysteries in nature , that our triumphs are complete , and that there are no new worlds to conquer . ''
+thank you .
+you know , i 've talked about some of these projects before -- about the human genome and what that might mean , and discovering new sets of genes .
+we 're actually starting at a new point : we 've been digitizing biology , and now we 're trying to go from that digital code into a new phase of biology with designing and synthesizing life .
+so , we 've always been trying to ask big questions .
+`` what is life ? '' is something that i think many biologists have been trying to understand at various levels .
+we 've tried various approaches , paring it down to minimal components .
+we 've been digitizing it now for almost 20 years ; when we sequenced the human genome , it was going from the analog world of biology into the digital world of the computer .
+now we 're trying to ask , `` can we regenerate life or can we create new life out of this digital universe ? ''
+this is the map of a small organism , mycoplasma genitalium , that has the smallest genome for a species that can self-replicate in the laboratory , and we 've been trying to just see if we can come up with an even smaller genome .
+we 're able to knock out on the order of 100 genes out of the 500 or so that are here .
+when we look at its metabolic map , it 's relatively simple compared to ours -- trust me , this is simple -- but when we look at all the genes that we can knock out one at a time , it 's very unlikely that this would yield a living cell .
+so we decided the only way forward was to actually synthesize this chromosome so we could vary the components to ask some of these most fundamental questions .
+and so we started down the road of : can we synthesize a chromosome ?
+can chemistry permit making these really large molecules where we 've never been before ?
+and if we do , can we boot up a chromosome ?
+a chromosome , by the way , is just a piece of inert chemical material .
+so , our pace of digitizing life has been increasing at an exponential pace .
+our ability to write the genetic code has been moving pretty slowly but has been increasing , and our latest point would put it on , now , an exponential curve .
+we started this over 15 years ago .
+it took several stages , in fact , starting with a bioethical review before we did the first experiments .
+but it turns out synthesizing dna is very difficult .
+there are tens of thousands of machines around the world that make small pieces of dna -- 30 to 50 letters in length -- and it 's a degenerate process , so the longer you make the piece , the more errors there are .
+so we had to create a new method for putting these little pieces together and correct all the errors .
+and this was our first attempt , starting with the digital information of the genome of phi x 174 .
+it 's a small virus that kills bacteria .
+we designed the pieces , went through our error correction and had a dna molecule of about 5,000 letters .
+the exciting phase came when we took this piece of inert chemical and put it in the bacteria , and the bacteria started to read this genetic code , made the viral particles .
+the viral particles then were released from the cells and came back and killed the e. coli .
+i was talking to the oil industry recently and i said they clearly understood that model .
+they laughed more than you guys are .
+and so , we think this is a situation where the software can actually build its own hardware in a biological system .
+but we wanted to go much larger : we wanted to build the entire bacterial chromosome -- it 's over 580,000 letters of genetic code -- so we thought we 'd build them in cassettes the size of the viruses so we could actually vary the cassettes to understand what the actual components of a living cell are .
+design is critical , and if you 're starting with digital information in the computer , that digital information has to be really accurate .
+when we first sequenced this genome in 1995 , the standard of accuracy was one error per 10,000 base pairs .
+we actually found , on resequencing it , 30 errors ; had we used that original sequence , it never would have been able to be booted up .
+part of the design is designing pieces that are 50 letters long that have to overlap with all the other 50-letter pieces to build smaller subunits we have to design so they can go together .
+we design unique elements into this .
+you may have read that we put watermarks in .
+think of this : we have a four-letter genetic code -- a , c , g and t .
+triplets of those letters code for roughly 20 amino acids , such that there 's a single letter designation for each of the amino acids .
+so we can use the genetic code to write out words , sentences , thoughts .
+initially , all we did was autograph it .
+some people were disappointed there was not poetry .
+we designed these pieces so we can just chew back with enzymes ; there are enzymes that repair them and put them together .
+and we started making pieces , starting with pieces that were 5,000 to 7,000 letters , put those together to make 24,000-letter pieces , then put sets of those going up to 72,000 .
+at each stage , we grew up these pieces in abundance so we could sequence them because we 're trying to create a process that 's extremely robust that you can see in a minute .
+we 're trying to get to the point of automation .
+so , this looks like a basketball playoff .
+when we get into these really large pieces over 100,000 base pairs , they wo n't any longer grow readily in e. coli -- it exhausts all the modern tools of molecular biology -- and so we turned to other mechanisms .
+we knew there 's a mechanism called homologous recombination that biology uses to repair dna that can put pieces together .
+here 's an example of it : there 's an organism called deinococcus radiodurans that can take three millions rads of radiation .
+you can see in the top panel , its chromosome just gets blown apart .
+twelve to 24 hours later , it put it back together exactly as it was before .
+we have thousands of organisms that can do this .
+these organisms can be totally desiccated ; they can live in a vacuum .
+i am absolutely certain that life can exist in outer space , move around , find a new aqueous environment .
+in fact , nasa has shown a lot of this is out there .
+here 's an actual micrograph of the molecule we built using these processes , actually just using yeast mechanisms with the right design of the pieces we put them in ; yeast puts them together automatically .
+this is not an electron micrograph ; this is just a regular photomicrograph .
+it 's such a large molecule we can see it with a light microscope .
+these are pictures over about a six-second period .
+so , this is the publication we had just a short while ago .
+this is over 580,000 letters of genetic code ; it 's the largest molecule ever made by humans of a defined structure .
+it 's over 300 million molecular weight .
+if we printed it out at a 10 font with no spacing , it takes 142 pages just to print this genetic code .
+well , how do we boot up a chromosome ? how do we activate this ?
+obviously , with a virus it 's pretty simple ; it 's much more complicated dealing with bacteria .
+it 's also simpler when you go into eukaryotes like ourselves : you can just pop out the nucleus and pop in another one , and that 's what you 've all heard about with cloning .
+with bacteria and archaea , the chromosome is integrated into the cell , but we recently showed that we can do a complete transplant of a chromosome from one cell to another and activate it .
+we purified a chromosome from one microbial species -- roughly , these two are as distant as human and mice -- we added a few extra genes so we could select for this chromosome , we digested it with enzymes to kill all the proteins , and it was pretty stunning when we put this in the cell -- and you 'll appreciate our very sophisticated graphics here .
+the new chromosome went into the cell .
+in fact , we thought this might be as far as it went , but we tried to design the process a little bit further .
+this is a major mechanism of evolution right here .
+we find all kinds of species that have taken up a second chromosome or a third one from somewhere , adding thousands of new traits in a second to that species .
+so , people who think of evolution as just one gene changing at a time have missed much of biology .
+there are enzymes called restriction enzymes that actually digest dna .
+the chromosome that was in the cell does n't have one ; the chromosome we put in does .
+it got expressed and it recognized the other chromosome as foreign material , chewed it up , and so we ended up just with a cell with the new chromosome .
+it turned blue because of the genes we put in it .
+and with a very short period of time , all the characteristics of one species were lost and it converted totally into the new species based on the new software that we put in the cell .
+all the proteins changed , the membranes changed ; when we read the genetic code , it 's exactly what we had transferred in .
+so , this may sound like genomic alchemy , but we can , by moving the software of dna around , change things quite dramatically .
+now i 've argued , this is not genesis ; this is building on three and a half billion years of evolution .
+and i 've argued that we 're about to perhaps create a new version of the cambrian explosion , where there 's massive new speciation based on this digital design .
+why do this ?
+i think this is pretty obvious in terms of some of the needs .
+we 're about to go from six and a half to nine billion people over the next 40 years .
+to put it in context for myself : i was born in 1946 .
+there are now three people on the planet for every one of us that existed in 1946 ; within 40 years , there 'll be four .
+we have trouble feeding , providing fresh , clean water , medicines , fuel for the six and a half billion .
+it 's going to be a stretch to do it for nine .
+we use over five billion tons of coal , 30 billion-plus barrels of oil -- that 's a hundred million barrels a day .
+when we try to think of biological processes or any process to replace that , it 's going to be a huge challenge .
+then of course , there 's all that co2 from this material that ends up in the atmosphere .
+we now , from our discovery around the world , have a database with about 20 million genes , and i like to think of these as the design components of the future .
+the electronics industry only had a dozen or so components , and look at the diversity that came out of that .
+we 're limited here primarily by a biological reality and our imagination .
+we now have techniques , because of these rapid methods of synthesis , to do what we 're calling combinatorial genomics .
+we have the ability now to build a large robot that can make a million chromosomes a day .
+when you think of processing these 20 million different genes or trying to optimize processes to produce octane or to produce pharmaceuticals , new vaccines , we can just with a small team , do more molecular biology than the last 20 years of all science .
+and it 's just standard selection : we can select for viability , chemical or fuel production , vaccine production , etc. .
+this is a screen snapshot of some true design software that we 're working on to actually be able to sit down and design species in the computer .
+you know , we do n't know necessarily what it 'll look like : we know exactly what their genetic code looks like .
+we 're focusing on now fourth-generation fuels .
+you 've seen recently , corn to ethanol is just a bad experiment .
+we have second - and third-generation fuels that will be coming out relatively soon that are sugar , to much higher-value fuels like octane or different types of butanol .
+but the only way we think that biology can have a major impact without further increasing the cost of food and limiting its availability is if we start with co2 as its feedstock , and so we 're working with designing cells to go down this road .
+and we think we 'll have the first fourth-generation fuels in about 18 months .
+sunlight and co2 is one method ...
+but in our discovery around the world , we have all kinds of other methods .
+this is an organism we described in 1996 .
+it expands in winter and contracts in summer .
+whoa !
+in the andes , this glacier is the source of drinking water for this city .
+the flows have increased .
+four times as many in the last 30 years as in the previous 75 .
+the united states is one of the two largest emitters , along with china .
+however there is a political battle in our country .

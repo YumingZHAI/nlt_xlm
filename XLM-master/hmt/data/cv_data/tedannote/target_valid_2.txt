@@ -1,0 +1,173 @@
+le graphique , je vais vous le montrer a un autre moment quand on aura des diapos .
+ce que je veux dire , c' est que le comprime blanc n' est pas aussi bon que le comprime bleu , qui n' est pas aussi bon que la gelule , qui n' est pas aussi bonne que l' aiguille .
+aucun ne possede de qualite pharmaceutique reelle . ce n' est que votre croyance qui le rend reel dans votre corps et donne un effet plus fort .
+prendre quelque chose qui est apparemment un tour truque et lui donner l' apparence de la realite .
+nous savons de cette etude que , quand vous voulez la realite , vous prenez l' aiguille .
+voici une epingle a chapeau de 18 cm . c' est tres pointu . je vais juste la steriliser un peu .
+c' est vraiment ma chair . ce n' est pas la chair que fait pousser damian .
+je vais percer ma peau et passer cette aiguille a travers jusqu'a l' autre cote .
+si vous ne supportez pas la vue du sang , si vous tombez dans les pommes facilement - je faisais ce tour a des amis dans ma chambre d' hotel hier soir a certaines personnes que je ne connaissais pas , et une dame a presque tourne de l' oeil -
+si vous etes sensibles , regardez ailleurs les 30 prochaines secondes . en fait , vous savez quoi , je vais faire la partie difficile derriere .
+vous pouvez voir mais vous pouvez aussi regarder ailleurs .
+donc , voila ce qui se passe , juste la , le debut de ma chair dans la partie inferieure du bras , je vais juste percer un peu .
+puis juste un peu a travers ma peau , ca sort de l' autre cote comme ca .
+on est en gros dans la meme situation qu' avec le tour du couteau .
+vous ne pouvez pas compter mes doigts la ?
+ils font : " il n' est pas assez bete pour se planter des choses a travers la peau pour nous amuser quelques minutes . "
+a quoi ca ressemble d' ici ? pas mal .
+les gens du fond se disent : " bon , je n' ai pas vraiment vu ca . "
+les personnes dans la salle adjacente commencent a entrer dans la notre .
+laissez -moi vous montrer de pres .
+c' est ma chair et je peux tourner .
+je suis desole . si vous vous sentez mal , regardez ailleurs , ne regardez pas ca .
+les gens du fond ou ceux qui regarderont la video des annees plus tard diront : " ouais , c' est pas mal l' espece d' effet la , mais si c' etait vrai , voyez , il y a un trou ici et , si c' etait vrai , ca saignerait . "
+eh bien laissez -moi vous sortir un peu de sang .
+mais je pense que dans ce contexte et dans l' idee de prendre quelque chose de factice et de le rendre reel , je vais juste le laisser comme ca et quitter la scene .
+on se reverra plusieurs fois ces prochains jours .
+je vais commencer par vous demander de vous souvenir quand vous etiez enfant , et que vous jouiez avec des cubes .
+tandis que vous decouvriez comment tendre le bras et les saisir , les soulever et les deplacer , vous appreniez en fait a reflechir et a resoudre des problemes en comprenant et en manipulant des relations dans l' espace .
+le raisonnement dans l' espace est profondement lie a notre facon de comprendre une grande partie du monde qui nous entoure .
+donc , en tant qu' informaticien inspire par cette utilite de nos interactions avec les objets physiques , avec l' aide de ma conseillere pattie , et de mon collaborateur jeevan kalanithi , j' ai commence a me demander ... qu' adviendrait -il si pour utiliser un ordinateur , au lieu d' avoir ce curseur de souris qui sert de doigt numerique qui se promene sur un bureau plat , on pouvait tendre les deux mains et saisir l' information physiquement , pour l' arranger de la maniere qu' on veut ?
+cette question etait tellement fascinante que nous avons decide d' etudier la reponse , en fabriquant les siftables .
+pour resumer , un siftable est un ordinateur interactif de la taille d' un cookie .
+on peut les deplacer a la main , ils peuvent se reconnaitre entre eux , ils peuvent sentir leur mouvement , et ils sont equipes d' un ecran et d' une radio sans fil .
+plus important encore , ce sont des objets physiques , donc tout comme les cubes , on peut les deplacer simplement en tendant le bras et en les prenant en main .
+a mesure que ces outils deviennent de plus en plus physiques , davantage conscients de leur mouvement , de la presence des autres , et conscients des nuances dans notre facon de les deplacer , on peut commencer a etudier de nouveaux styles d' interactions amusants .
+ce siftable est configure pour montrer de la video , et si je l' incline dans une direction , il fera avancer la video dans ce sens , si je l' incline dans l' autre sens la video reviendra en arriere .
+et ces portraits interactifs sont conscients de la presence des autres .
+donc si je les mets les uns a cote des autres , ils s' y interessent .
+s' ils se retrouvent encercles , ils s' en rendent compte aussi , et ils peuvent devenir un peu agites .
+nous avons commence a realiser que l' une des implications interessantes de l' interaction , c' etait que l' on pouvait utiliser des gestes du quotidien avec les donnees , comme de verser une couleur de la meme maniere qu' on verserait un liquide .
+donc dans ce cas , on a trois siftables configures en pots de peinture et je peux les utiliser pour verser des couleurs dans celui du milieu , ou elles se melangent .
+si on en met trop , on peut en enlever un petit peu .
+cela ouvre aussi de belles opportunites en ce qui concerne l' education , comme les langues , les mathematiques et les jeux de logique , ou on veut donner aux gens la possibilite de faire des essais rapidement , et de constater les resultats immediatement .
+ici on a un jeu de lettres qui est une espece de melange entre le scrabble et le boggle .
+en gros , a chaque tour une lettre est attribuee aleatoirement sur chaque siftable , et tandis que vous essayez de faire des mots , il verifie dans un dictionnaire .
+ensuite , au bout de 30 secondes , il melange a nouveau , et on a un nouvel ensemble de lettres et de nouvelles possibilites a explorer .
+voici des enfants qui sont venus au media lab pour une sortie scolaire , et j' ai reussi a leur faire essayer , sous l' œil de la camera .
+ils ont vraiment adore .
+de plus , l' un des aspects interessants de ce genre d' application c' est qu' on n' a pas besoin de donner aux gens des tas d' instructions .
+tout ce qu' on a a dire , c' est : " fais des mots " , et ils savent exactement quoi faire .
+voici un autre groupe de gens en train de les essayer .
+voila notre plus jeune beta testeur , en bas a droite .
+en fait , tout ce qui l' interessait c' etait d' empiler les siftables .
+pour lui , ce n' etait que des cubes .
+la , on a une application de dessin anime interactif .
+nous voulions construire un outil d' apprentissage pour ceux qui apprennent des langues .
+eh bien voila felix .
+il peut amener de nouveaux personnages dans la scene , simplement en soulevant de la table les siftables presentant ce personnage .
+la , il fait lever le soleil .
+video : le soleil se leve .
+la il a ajoute un tracteur a la scene .
+video : le tracteur orange .
+bien joue ! ouais !
+donc en secouant les siftables et en les placant les uns a cote des autres il peut faire interagir les personnages ... video : ouaf !
+et inventer sa propre histoire .
+video : salut !
+c' est une histoire avec une fin ouverte , a lui de choisir le denouement .
+video : enfuis -toi , le chat .
+le dernier exemple que j' ai le temps de vous montrer aujourd'hui est un outil d' arrangement musical et de performance en direct que nous avons construit recemment , dans lequel les siftables jouent le role de sons comme la voix principale , la basse et la batterie .
+chacun d' entre eux possede quatre variations , on peut choisir celle qu' on veut utiliser .
+et on peut integrer ces sons dans une sequence que l' on peut assembler au sein du schema qu' on veut .
+et on l' integre simplement en cognant le siftable de son contre un siftable de sequence .
+il y a des effets que l' on peut controler en direct , comme la reverberation et le filtre .
+on l' attache a un son en particulier et ensuite on incline pour l' ajuster .
+en plus , il y a des effets generaux comme le tempo et le volume qui s' appliquent a toute la sequence .
+jetons un œil .
+video : on va commencer en mettant une voix principale dans deux siftables de sequence , on les met a la suite , on allonge la suite avec un peu plus de voix principale .
+la j' ajoute une ligne de basse .
+video : maintenant je vais ajouter des percussions .
+video : et maintenant je vais attacher le filtre a la batterie , pour pouvoir controler les effets en direct .
+video : je peux accelerer toute la sequence en inclinant le tempo dans un sens ou dans l' autre .
+video : et maintenant je vais attacher le filtre a la basse , pour plus d' expressivite .
+video : je peux reorganiser la sequence pendant la lecture .
+je n' ai donc pas besoin de la planifier a l' avance , mais je peux improviser , je peux l' allonger ou la raccourcir en plein milieu .
+et enfin , je peux diminuer progressivement le volume de la sequence en utilisant le siftable de volume , incline sur la gauche .
+donc , comme vous le voyez , ma passion est de creer de nouvelles interfaces entre humains et ordinateurs qui correspondent mieux a la facon dont fonctionnent notre cerveau et notre corps .
+aujourd'hui , j' ai eu le temps de vous montrer un point de ce nouvel espace de conception , et quelques-unes des possibilites que nous cherchons a faire sortir du laboratoire .
+la derniere pensee que je veux vous transmettre , c' est que cette nouvelle generation d' outils s' annonce pour interagir avec les medias numeriques , qui apporteront l' information dans notre monde a notre maniere .
+j' ai hate de discuter avec vous tous .
+un jour , le chroniqueur du los angeles times steve lopez se promenait dans les rues du centre-ville de los angeles quand il entendit une belle musique .
+elle venait d' un homme , un afro-americain , charmant , en haillons , sans-abri , qui jouait sur un violon qui n' avait plus que deux cordes .
+cette histoire , beaucoup d' entre vous la connaissent , car les chroniques de steve ont inspire un livre , qui a ete adapte a l' ecran , avec robert downey jr dans le role de steve lopez , et jamie fox dans celui de nathaniel ayers anthony , le contrebassiste issu de l' ecole juilliard dont la carriere prometteuse fut ecourtee par une tragique schizophrenie paranoide .
+nathaniel abandonna julliard , subit une rupture totale , et 30 ans plus tard , il etait sans-abri dans les rues de skid row , au centre-ville de los angeles .
+je vous encourage tous a lire le livre de steve , ou a regarder le film , pour comprendre non seulement le lien merveilleux qui s' est cree entre ces deux hommes , mais aussi comment la musique a contribue a faconner ce lien , et a finalement ete l' instrument , si vous me passez ce calembour , qui a aide nathaniel sortir de la rue .
+j' ai rencontre m. ayers en 2008 , il y a deux ans , au walt disney concert hall .
+il venait tout juste d' ecouter un concert des premiere et quatrieme symphonies de beethoven , il est venu en coulisses et s' est presente .
+il parlait d' une maniere tres joviale et sociable de yo-yo ma et d' hillary clinton , des raisons pour lesquelles les dodgers ne gagneraient jamais les series mondiales , a cause de la traitrise des figurations du premier violon dans le dernier mouvement de la quatrieme symphonie de beethoven .
+et nous avons parle musique . et j' ai recu un courriel de steve quelques jours plus tard me disant que nathaniel aimerait que je lui donne un cours de violon .
+maintenant , je devrais preciser que nathaniel refuse de se soigner parce que quand il a ete traite ce fut avec des electrochocs , de la thorazine et des menottes , et que , toute sa vie , il a souffert de ce traumatisme .
+mais , maintenant , il en resulte qu' il est enclin a ces episodes schizophreniques . dans les pires de leurs manifestations , il explose , et puis disparait pendant des jours , errant dans les rues de skid row , expose a ses horreurs , les tourments de son esprit dechaines sur lui .
+et nathanial etait dans un tel etat de agitation quand nous avons commence notre premiere lecon au walt disney concert hall qu' il y avait une sorte de reflet maniaque dans ses yeux , il avait l' air perdu .
+et il parlait de demons invisibles et de fumee , et comment quelqu'un l' empoisonnait dans son sommeil .
+et j' ai eu peur , pas pour moi , mais j' ai eu peur de le perdre , qu' il se mette a sombrer dans l' une de ses crises , et que je ruine sa relation avec le violon si je commencais a parler de portees et d' arpeges et des autres formes interessantes de la pedagogie didactique du violon .
+alors , j' ai simplement commence a jouer .
+j' ai joue le premier mouvement du concerto pour violon de beethoven .
+et comme je jouais , j' ai vu qu' un changement profond se produisait dans les yeux nathaniel .
+c' etait comme s' il etait sous l' emprise d' un produit pharmaceutique invisible , une reaction chimique , dont la musique que je jouais etait le catalyseur .
+et la rage maniaque de nathaniel s' est transformee en comprehension , en curiosite tranquille , et en grace .
+et comme par miracle , il a leve son propre violon , et il a commence a jouer a l' oreille , des extraits de concertos pour violon qu' il m' a alors demande de completer , mendelssohn , tchaikovski , sibelius .
+et nous avons commence a parler de musique , de bach a beethoven , de brahms , bruckner , tous les b , de bartok , jusqu'a esa-pekka salonen .
+et j' ai compris que non seulement il avait une connaissance encyclopedique de la musique , mais qu' il avait un lien avec cette musique , a un niveau personnel .
+il en a parle avec le genre de passion et de comprehension que je partage avec mes collegues de l' orchestre philharmonique de los angeles .
+en jouant de la musique , et en parlant de musique , cet homme s' etait transforme , de l' homme derange , paranoiaque , qui errait dans les rues du centre-ville de los angeles , en ce charmant , erudit , et brillant musicien issu de juilliard .
+la musique est medecine . la musique nous change .
+et pour nathaniel , la musique c' est la sante mentale .
+parce que la musique lui permet de prendre ses pensees et ses delires , et de les ramener grace a son imagination et sa creativite , dans la realite .
+et c' est une evasion de son etat tourmente .
+et j' ai compris que c' etait l' essence meme de l' art .
+c' est la raison pour laquelle nous avons cree la musique , pour prendre quelque chose qui existe en chacun de nous , au niveau le plus fondamental de notre etre , de nos emotions , et grace a notre prisme artistique , par notre creativite , nous sommes en mesure de faconner ces emotions dans la realite .
+et la realite de cette expression atteint chacun d' entre nous , et nous emeut , nous inspire et nous unit .
+et en ce qui concerne nathaniel , la musique l' a ramene dans parmi ses amis .
+la puissance redemptrice de la musique l' a ramene dans la famille des musiciens qui l' ont compris , ont reconnu ses talents et qui le respectaient .
+et je continuerai toujours a faire de la musique avec nathaniel , que nous soyons au walt disney concert hall , ou sur skid row , parce qu' il me rappelle pourquoi je suis devenu musicien .
+merci .
+je vous remercie . merci .
+robert gupta .
+je veux jouer quelque chose que j' ai honteusement vole aux violoncellistes .
+alors , s' il vous plait pardonnez -moi .
+ce que je vais vous montrer en premier , aussi vite que possible , c' est un travail fondateur , une nouvelle technologie que nous avons apportee a microsoft comme part d' une acquisition il y a presque exactement un an . voici seadragon . et c' est un environnement dans lequel vous pouvez , localement ou a distance , interagir avec de grandes quantites de donnees visuelles .
+on a ici devant les yeux beaucoup , beaucoup de gigabytes de photos numeriques et on fait des zooms avant de maniere continue et en quelque sorte fluide , on navigue dans le truc , on le rearrange de la maniere qu' on veut .
+et ce quelle que soit la quantite d' informations que l' on visionne , la taille de ces collections ou la taille des images .
+la plupart sont des photos d' appareils numeriques ordinaires , mais celle-ci , par exemple , est scannee a partir de la bibliotheque du congres , et elle fait dans les 300 megapixels .
+cela ne fait aucune difference parce que la seule chose qui devrait limiter les performances d' un systeme comme celui-ci , c' est le nombre de pixels sur votre ecran a un instant " t " . c' est aussi une architecture tres flexible .
+voici un livre entier , un exemple de donnee qui n' est pas une image .
+c' est bleak house de dickens . chaque colonne est un chapitre .
+pour vous prouver que c' est vraiment du texte , et pas une image , on peut faire quelque chose comme ca , pour bien montrer que c' est une veritable representation du texte ; ce n' est pas une photo .
+c' est peut-etre une maniere un peu artificielle de lire un e-book .
+je ne vous le recommande pas .
+voila un exemple plus realiste . c' est un numero du guardian .
+chaque grande image est le debut d' une section .
+et cela vous donne veritablement la joie et l' experience agreable de la lecture de la vraie version papier d' un magazine ou d' un journal , qui est un type de media multi-echelles par definition .
+nous avons egalement mis au point quelque chose avec le coin de ce numero du guardian en particulier .
+nous avons cree une fausse publicite en tres haute resolution ... bien plus haute que ce que vous pourriez obtenir dans une publicite classique ... et nous avons insere du contenu supplementaire .
+si vous voulez voir les caracteristiques de cette voiture , on peut les voir ici .
+ou d' autres modeles , ou meme des specifications techniques .
+et on en arrive vraiment a certaines de ces idees pour vraiment se debarrasser de ces limites d' espace de l' ecran .
+on espere que cela signifie la fin des pop-ups et d' autres types de pollution du meme genre ... ne devraient plus etre necessaires .
+bien entendu , la cartographie est l' une des applications evidentes pour une technologie comme celle-ci .
+et sur celle-ci je vais passer tres rapidement , si ce n' est pour dire qu' on a des choses pour contribuer a ce domaine egalement .
+ce sont toutes les routes des etats-unis
+superposees a une image geospatiale de la nasa .
+bon , maintenant , allons chercher autre chose .
+tout ca est en ce moment en ligne sur le web , vous pouvez aller verifier .
+c' est un projet appele photosynth , qui en realite marie deux technologies differentes .
+l' une d' entre elles est seadragon et l' autre est issue d' une recherche magnifique sur la vision informatisee menee par noah snavely , un etudiant de 3 eme cycle a l' universite de washington , co-dirigee par steve seitz a l' uw
+et rick szeliski de la recherche microsoft . une tres belle collaboration .
+et donc c' est en ligne sur le web . cela fonctionne avec la technologie seadragon .
+on peut le voir quand on utilise ce genre de visualisations , ou on peut plonger dans les images et avoir cette sorte d' experience multi-resolutions .
+mais l' arrangement dans l' espace des images dans ce cas-la a en fait un sens .
+les algorithmes de vision informatisee ont enregistre ces images ensemble , afin qu' elles correspondent a l' espace reel dans lequel ces photos ont ete prises . donc vous voyez des elements ici de diaporama stabilise ou d' imagerie panoramique , et toutes ces choses ont ete reliees entre elles dans l' espace .
+je ne suis pas sur d' avoir le temps de vous montrer d' autres environnements .
+certains sont beaucoup plus spatiaux .
+j' aimerais sauter directement a l' un des premiers ensemble de donnees de noah ( et cela vient d' un premier prototype de photosynth que nous avons fait fonctionner pour la premiere fois cet ete ) pour vous montrer ce qui d' apres moi est vraiment le point fort de cette technologie , la technologie photosynth . et ce n' est pas necessairement si evident quand on regarde les environnements que nous avons mis en ligne sur le site web .
+on a du se preoccuper des avocats et des trucs dans le genre .
+voici une reconstruction de la cathedrale notre-dame qui a ete faite entierement par calcul informatique a partir d' images recuperees sur flickr . on tape juste notre dame dans flickr , et on trouve des photos de types en t-shirts , du campus et ainsi de suite . et chacun des ces cones oranges represente une image qui a ete identifiee comme appartenant a ce modele .
+et donc ce sont toutes des images flickr , et elles ont toutes ete reliees entre elles dans l' espace de cette maniere .
+et on peut naviguer dedans tres simplement de cette maniere .
+vous savez , je n' aurais jamais cru que je finirais par travailler chez microsoft .
+c' est tres gratifiant d' etre recu ici de cette maniere .
+je pense que vous pouvez voir qu' il s' agit de beaucoup de types d' appareils photos differents : il y a de tout , des appareils photo de telephone portable aux reflex mono-objectifs de professionnels , un assez grand nombre de photos , cousues ensemble dans cet environnement .
+et si j' y arrive , je vais en trouver quelques-unes un peu etranges .
+beaucoup d' entre elles sont occultees par des visages , et ainsi de suite .
+on peut plonger depuis le poster dans une vue physique de l' environnement .

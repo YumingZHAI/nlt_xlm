@@ -1,0 +1,173 @@
+it 's a really , this graph , well i 'll show it to you some other time when we have slides .
+the point is the white pill is not as good as the blue pill is not as good as the capsule is not as good as the needle .
+and none of it has any real pharmaceutical quality , it 's only your belief that makes it real in your body and makes a stronger effect .
+and take something that is obviously a fake trick and make it seem real .
+and we know from that study that when you want reality , you go to the needle .
+this is a seven-inch hatpin . it 's very , very sharp , and i 'm going to just sterilize it a tiny bit .
+this is really my flesh . this is not damian 's special-grown flesh .
+i 'm going to pierce my skin and run this needle through to the other side .
+if you 're queasy -- if you faint easily -- i was doing this for some friends in the hotel room last night , and some people that i did n't know , and one woman almost passed out .
+so , i suggest if you get queasy easy that you look away for about the next 30 -- in fact , you know what , i 'll do the first bad part behind it .
+you 'll get to see , you can look away too if you 'd like to .
+so , here is what happens , right here , the beginning of my flesh at the lower part of my arm i just make a little pierce .
+ok , and then just through my skin a tiny bit , and then out the other side like this .
+now , essentially we 're in the same position we were in with the knife trick .
+but you ca n't count my fingers right now can you ?
+they go , `` well , he 's certainly not dumb enough to stab himself through the skin to entertain us for a few minutes .
+how 's that look out there ? pretty good .
+and the people in the back go , `` ok , i did n't really see that . ''
+people in the satellite room are starting to move in now .
+let me give you good close look at this .
+that 's my flesh , and i can twist that around .
+i 'm sorry . if you 're getting queasy , look away , do n't look at the thing .
+people in the back or people on video years from now watching this will go , `` well yeah , that looks kind of neat in some sort of effect there , but if it were real he would be -- see there 's a hole there and a hole there , if it were real he would be bleeding .
+well let me work up some blood for you .
+but i think in this context and with the idea of taking something fake and making it into something real , i 'm just going to leave it there , and walk off the stage .
+i will be seeing you several times over the next few days .
+i want to start out by asking you to think back to when you were a kid , playing with blocks .
+as you figured out how to reach out and grasp , pick them up and move them around , you were actually learning how to think and solve problems by understanding and manipulating spatial relationships .
+spatial reasoning is deeply connected to how we understand a lot of the world around us .
+so , as a computer scientist inspired by this utility of our interactions with physical objects -- along with my adviser pattie , and my collaborator jeevan kalanithi -- i started to wonder -- what if when we used a computer , instead of having this one mouse cursor that was a like a digital fingertip moving around a flat desktop , what if we could reach in with both hands and grasp information physically , arranging it the way we wanted ?
+this question was so compelling that we decided to explore the answer , by building siftables .
+in a nutshell , a siftable is an interactive computer the size of a cookie .
+they 're able to be moved around by hand , they can sense each other , they can sense their motion , and they have a screen and a wireless radio .
+most importantly , they 're physical , so like the blocks , you can move them just by reaching out and grasping .
+and as these tools become more physical , more aware of their motion , aware of each other , and aware of the nuance of how we move them , we can start to explore some new and fun interaction styles .
+this siftable is configured to show video , and if i tilt it in one direction , it 'll roll the video this way ; if i tilt it the other way it rolls it backwards .
+and these interactive portraits are aware of each other .
+so if i put them next to each other , they get interested .
+if they get surrounded , they notice that too , they might get a little flustered .
+one of the interesting implications on interaction , we started to realize , was that we could use everyday gestures on data , like pouring a color the way we might pour a liquid .
+so in this case , we 've got three siftables configured to be paint buckets and i can use them to pour color into that central one , where they get mixed .
+if we overshoot , we can pour a little bit back .
+there are also some neat possibilities for education , like language , math and logic games where we want to give people the ability to try things quickly , and view the results immediately .
+here we have a word game that 's kind of like a mash-up between scrabble and boggle .
+basically , in every round you get a randomly assigned letter on each siftable , and as you try to make words it checks against a dictionary .
+then , after about 30 seconds , it reshuffles , and you have a new set of letters and new possibilities to try .
+so these are some kids that came on a field trip to the media lab , and i managed to get them to try it out , and shoot a video .
+they really loved it .
+and , one of the interesting things about this kind of application is that you do n't have to give people many instructions .
+all you have to say is , `` make words , '' and they know exactly what to do .
+so here 's another few people trying it out .
+that 's our youngest beta tester , down there on the right .
+turns out , all he wanted to do was to stack the siftables up .
+so to him , they were just blocks .
+now , this is an interactive cartoon application .
+and we wanted to build a learning tool for language learners .
+and this is felix , actually .
+and he can bring new characters into the scene , just by lifting the siftables off the table that have that character shown on them .
+here , he 's bringing the sun out .
+the sun is rising .
+now he 's brought a tractor into the scene .
+the orange tractor .
+good job ! yeah !
+so by shaking the siftables and putting them next to each other he can make the characters interact -- woof !
+inventing his own narrative .
+hello !
+it 's an open-ended story , and he gets to decide how it unfolds .
+fly away , cat .
+so , the last example i have time to show you today is a music sequencing and live performance tool that we 've built recently , in which siftables act as sounds like lead , bass and drums .
+each of these has four different variations , you get to choose which one you want to use .
+and you can inject these sounds into a sequence that you can assemble into the pattern that you want .
+and you inject it by just bumping up the sound siftable against a sequence siftable .
+there are effects that you can control live , like reverb and filter .
+you attach it to a particular sound and then tilt to adjust it .
+and then , overall effects like tempo and volume that apply to the entire sequence .
+so let 's have a look .
+we 'll start by putting a lead into two sequence siftables , arrange them into a series , extend it , add a little more lead .
+now i put a bass line in .
+now i 'll put some percussion in .
+and now i 'll attach the filter to the drums , so i can control the effect live .
+i can speed up the whole sequence by tilting the tempo one way or the other .
+and now i 'll attach the filter to the bass for some more expression .
+i can rearrange the sequence while it plays .
+so i do n't have to plan it out in advance , but i can improvise , making it longer or shorter as i go .
+and now , finally , i can fade the whole sequence out using the volume siftable , tilted to the left .
+so , as you can see , my passion is for making new human-computer interfaces that are a better match to the ways our brains and bodies work .
+and today , i had time to show you one point in this new design space , and a few of the possibilities that we 're working to bring out of the laboratory .
+so the thought i want to leave you with is that we 're on the cusp of this new generation of tools for interacting with digital media that are going to bring information into our world on our terms .
+i look forward to talking with all of you .
+one day , los angeles times columnist steve lopez was walking along the streets of downtown los angeles when he heard beautiful music .
+and the source was a man , an african-american man , charming , rugged , homeless , playing a violin that only had two strings .
+and i 'm telling a story that many of you know , because steve 's columns became the basis for a book , which was turned into a movie , with robert downey jr. acting as steve lopez , and jamie foxx as nathaniel anthony ayers , the juilliard-trained double bassist whose promising career was cut short by a tragic affliction with paranoid schizophrenia .
+nathaniel dropped out of juilliard , he suffered a complete breakdown , and 30 years later he was living homeless on the streets of skid row in downtown los angeles .
+i encourage all of you to read steve 's book or to watch the movie to understand not only the beautiful bond that formed between these two men , but how music helped shape that bond , and ultimately was instrumental -- if you 'll pardon the pun -- in helping nathaniel get off the streets .
+i met mr. ayers in 2008 , two years ago , at walt disney concert hall .
+he had just heard a performance of beethoven 's first and fourth symphonies , and came backstage and introduced himself .
+he was speaking in a very jovial and gregarious way about yo-yo ma and hillary clinton and how the dodgers were never going to make the world series , all because of the treacherous first violin passage work in the last movement of beethoven 's fourth symphony .
+and we got talking about music , and i got an email from steve a few days later saying that nathaniel was interested in a violin lesson with me .
+now , i should mention that nathaniel refuses treatment because when he was treated it was with shock therapy and thorazine and handcuffs , and that scar has stayed with him for his entire life .
+but as a result now , he is prone to these schizophrenic episodes , the worst of which can manifest themselves as him exploding and then disappearing for days , wandering the streets of skid row , exposed to its horrors , with the torment of his own mind unleashed upon him .
+and nathaniel was in such a state of agitation when we started our first lesson at walt disney concert hall -- he had a kind of manic glint in his eyes , he was lost .
+and he was talking about invisible demons and smoke , and how someone was poisoning him in his sleep .
+and i was afraid , not for myself , but i was afraid that i was going to lose him , that he was going to sink into one of his states , and that i would ruin his relationship with the violin if i started talking about scales and arpeggios and other exciting forms of didactic violin pedagogy .
+so , i just started playing .
+and i played the first movement of the beethoven violin concerto .
+and as i played , i understood that there was a profound change occurring in nathaniel 's eyes .
+it was as if he was in the grip of some invisible pharmaceutical , a chemical reaction , for which my playing the music was its catalyst .
+and nathaniel 's manic rage was transformed into understanding , a quiet curiosity and grace .
+and in a miracle , he lifted his own violin and he started playing , by ear , certain snippets of violin concertos which he then asked me to complete -- mendelssohn , tchaikovsky , sibelius .
+and we started talking about music , from bach to beethoven and brahms , bruckner , all the b 's , from bartok , all the way up to esa-pekka salonen .
+and i understood that he not only had an encyclopedic knowledge of music , but he related to this music at a personal level .
+he spoke about it with the kind of passion and understanding that i share with my colleagues in the los angeles philharmonic .
+and through playing music and talking about music , this man had transformed from the paranoid , disturbed man that had just come from walking the streets of downtown los angeles to the charming , erudite , brilliant , juilliard-trained musician .
+music is medicine . music changes us .
+and for nathaniel , music is sanity .
+because music allows him to take his thoughts and delusions and shape them through his imagination and his creativity , into reality .
+and that is an escape from his tormented state .
+and i understood that this was the very essence of art .
+this was the very reason why we made music , that we take something that exists within all of us at our very fundamental core , our emotions , and through our artistic lens , through our creativity , we 're able to shape those emotions into reality .
+and the reality of that expression reaches all of us and moves us , inspires and unites us .
+and for nathaniel , music brought him back into a fold of friends .
+the redemptive power of music brought him back into a family of musicians that understood him , that recognized his talents and respected him .
+and i will always make music with nathaniel , whether we 're at walt disney concert hall or on skid row , because he reminds me why i became a musician .
+thank you .
+bruno giussani : thank you . thanks .
+robert gupta .
+robert gupta : i 'm going to play something that i shamelessly stole from cellists .
+so , please forgive me .
+what i 'm going to show you first , as quickly as i can , is some foundational work , some new technology that we brought to microsoft as part of an acquisition almost exactly a year ago . this is seadragon , and it 's an environment in which you can either locally or remotely interact with vast amounts of visual data .
+we 're looking at many , many gigabytes of digital photos here and kind of seamlessly and continuously zooming in , panning through the thing , rearranging it in any way we want .
+and it does n't matter how much information we 're looking at , how big these collections are or how big the images are .
+most of them are ordinary digital camera photos , but this one , for example , is a scan from the library of congress , and it 's in the 300 megapixel range .
+it does n't make any difference because the only thing that ought to limit the performance of a system like this one is the number of pixels on your screen at any given moment . it 's also very flexible architecture .
+this is an entire book , so this is an example of non-image data .
+this is `` bleak house '' by dickens . every column is a chapter .
+to prove to you that it 's really text , and not an image , we can do something like so , to really show that this is a real representation of the text ; it 's not a picture .
+maybe this is a kind of an artificial way to read an e-book .
+i would n't recommend it .
+this is a more realistic case . this is an issue of the guardian .
+every large image is the beginning of a section .
+and this really gives you the joy and the good experience of reading the real paper version of a magazine or a newspaper , which is an inherently multi-scale kind of medium .
+we 've also done a little something with the corner of this particular issue of the guardian .
+we 've made up a fake ad that 's very high resolution -- much higher than you 'd be able to get in an ordinary ad -- and we 've embedded extra content .
+if you want to see the features of this car , you can see it here .
+or other models , or even technical specifications .
+and this really gets at some of these ideas about really doing away with those limits on screen real estate .
+we hope that this means no more pop-ups and other kind of rubbish like that -- should n't be necessary .
+of course , mapping is one of those really obvious applications for a technology like this .
+and this one i really wo n't spend any time on , except to say that we have things to contribute to this field as well .
+but those are all the roads in the u.s.
+superimposed on top of a nasa geospatial image .
+so let 's pull up , now , something else .
+this is actually live on the web now ; you can go check it out .
+this is a project called photosynth , which really marries two different technologies .
+one of them is seadragon and the other is some very beautiful computer vision research done by noah snavely , a graduate student at the university of washington , co-advised by steve seitz at u.w.
+and rick szeliski at microsoft research . a very nice collaboration .
+and so this is live on the web . it 's powered by seadragon .
+you can see that when we kind of do these sorts of views , where we can dive through images and have this kind of multi-resolution experience .
+but the spatial arrangement of the images here is actually meaningful .
+the computer vision algorithms have registered these images together so that they correspond to the real space in which these shots -- all taken near grassi lakes in the canadian rockies -- all these shots were taken . so you see elements here of stabilized slide-show or panoramic imaging , and these things have all been related spatially .
+i 'm not sure if i have time to show you any other environments .
+there are some that are much more spatial .
+i would like to jump straight to one of noah 's original data-sets -- and this is from an early prototype of photosynth that we first got working in the summer -- to show you what i think is really the punch line behind this technology , the photosynth technology . and it 's not necessarily so apparent from looking at the environments that we 've put up on the website .
+we had to worry about the lawyers and so on .
+this is a reconstruction of notre dame cathedral that was done entirely computationally from images scraped from flickr . you just type notre dame into flickr , and you get some pictures of guys in t-shirts , and of the campus and so on . and each of these orange cones represents an image that was discovered to belong to this model .
+and so these are all flickr images , and they 've all been related spatially in this way .
+and we can just navigate in this very simple way .
+you know , i never thought that i 'd end up working at microsoft .
+it 's very gratifying to have this kind of reception here .
+i guess you can see this is lots of different types of cameras : it 's everything from cell phone cameras to professional slrs , quite a large number of them , stitched together in this environment .
+and if i can , i 'll find some of the sort of weird ones .
+so many of them are occluded by faces , and so on .
+we can dive in from the poster to a physical view of this environment .
